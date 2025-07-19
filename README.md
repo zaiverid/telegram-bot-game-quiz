@@ -89,7 +89,7 @@ node index.js
 
 ## Cara Mendapatkan Token Bot
 
-1. Buka Telegram dan cari @BotFather
+1. Buka Telegram dan cari @BotFather atau [klik](https://t.me/BotFather)
 2. Ketik `/newbot` dan ikuti instruksi
 3. Salin token yang diberikan (contoh: `123456:ABC-DEF1234ghIkl-zyx57W2v1u123ew11`)
 4. Ganti token di file `index.js`
