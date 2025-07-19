@@ -138,4 +138,4 @@ Edit file `data/words.json` dengan format:
 Pull request dipersilakan. Untuk perubahan besar, buka issue terlebih dahulu.
 
 ## Lisensi
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://github.com/zaiverid/telegram-bot-game-quiz/blob/main/LICENSE)
