@@ -1,5 +1,7 @@
 # Telegram Bot Game Quiz - Panduan Instalasi
 
+![Tangkap Layar](path/1.jpg)
+
 Bot Telegram multiplayer dengan fitur game Asah Otak dan Suit (Batu-Gunting-Kertas)
 
 ## Fitur Utama
