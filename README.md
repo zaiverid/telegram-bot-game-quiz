@@ -14,7 +14,7 @@ Bot Telegram multiplayer dengan fitur game Asah Otak dan Suit (Batu-Gunting-Kert
 ## Persyaratan
 - Node.js v14 atau lebih baru
 - Git (untuk instalasi dari GitHub)
-- Akun Telegram dan token bot dari @BotFather
+- Akun Telegram dan token bot dari [@BotFather](https://t.me/BotFather)
 
 ## Instalasi di Termux (Android)
 
