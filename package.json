@@ -1,0 +1,12 @@
+{
+  "name": "Telegram Bot Game Quiz",
+  "version": "1.0.0",
+  "description": "Telegram Bot Game Quiz",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
