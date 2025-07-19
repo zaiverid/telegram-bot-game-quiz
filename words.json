@@ -1,0 +1,2842 @@
+[
+  {
+    "question": "Apa ibukota Indonesia?",
+    "options": ["Jakarta", "Bandung", "Surabaya", "Medan"],
+    "answer": "Jakarta"
+  },
+  {
+    "question": "2 + 2 x 2 = ?",
+    "options": ["6", "8", "4", "2"],
+    "answer": "6"
+  },
+  {
+    "question": "Planet terdekat dari matahari?",
+    "options": ["Merkurius", "Venus", "Bumi", "Mars"],
+    "answer": "Merkurius"
+  },
+  {
+    "question": "Berapakah hasil dari 10! (faktorial)?",
+    "options": ["3628800", "1000000", "362880", "100000"],
+    "answer": "3628800"
+  },
+  {
+    "question": "Apa nama lain dari segitiga sama sisi?",
+    "options": ["Equilateral", "Isosceles", "Scalene", "Right"],
+    "answer": "Equilateral"
+  },
+  {
+    "question": "Siapa penemu gravitasi?",
+    "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+    "answer": "Isaac Newton"
+  },
+  {
+    "question": "Apa warna primer?",
+    "options": ["Merah-Kuning-Biru", "Merah-Hijau-Biru", "Merah-Kuning-Hijau", "Kuning-Hijau-Biru"],
+    "answer": "Merah-Kuning-Biru"
+  },
+  {
+    "question": "Berapa banyak sisi yang dimiliki heksagon?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "6"
+  },
+  {
+    "question": "Apa simbol kimia untuk emas?",
+    "options": ["Au", "Ag", "Fe", "Hg"],
+    "answer": "Au"
+  },
+  {
+    "question": "Bahasa pemrograman apa yang digunakan untuk membuat bot ini?",
+    "options": ["Python", "Java", "JavaScript", "C++"],
+    "answer": "JavaScript"
+  },
+  {
+    "question": "Apa nama benua terkecil?",
+    "options": ["Asia", "Afrika", "Australia", "Eropa"],
+    "answer": "Australia"
+  },
+  {
+    "question": "Siapa presiden pertama Indonesia?",
+    "options": ["Soeharto", "Soekarno", "Jokowi", "Habibie"],
+    "answer": "Soekarno"
+  },
+  {
+    "question": "Apa nama gunung tertinggi di dunia?",
+    "options": ["Kilimanjaro", "Everest", "Fuji", "Rinjani"],
+    "answer": "Everest"
+  },
+  {
+    "question": "Berapa banyak hari dalam tahun kabisat?",
+    "options": ["364", "365", "366", "367"],
+    "answer": "366"
+  },
+  {
+    "question": "Apa nama mata uang Jepang?",
+    "options": ["Won", "Yen", "Ringgit", "Baht"],
+    "answer": "Yen"
+  },
+  {
+    "question": "Dalam fisika, apa nama partikel yang membawa gaya nuklir kuat?",
+    "options": ["Gluon", "Foton", "Boson W", "Graviton"],
+    "answer": "Gluon"
+  },
+  {
+    "question": "Apa nama teorema yang menyatakan bahwa tidak ada sistem logika yang bisa sekaligus lengkap dan konsisten?",
+    "options": ["Teorema Gödel", "Teorema Pythagoras", "Teorema Fermat", "Teorema Euler"],
+    "answer": "Teorema Gödel"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana senyawa organik bereaksi dengan oksigen menghasilkan panas?",
+    "options": ["Pembakaran", "Fotosintesis", "Hidrolisis", "Polimerisasi"],
+    "answer": "Pembakaran"
+  },
+  {
+    "question": "Apa nama struktur protein yang menunjukkan susunan 3D lengkap dari semua atom dalam molekul protein?",
+    "options": ["Struktur kuaterner", "Struktur tersier", "Struktur sekunder", "Struktur primer"],
+    "answer": "Struktur tersier"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan imajiner yang merupakan akar kuadrat dari -1?",
+    "options": ["i", "e", "π", "φ"],
+    "answer": "i"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan kita tidak bisa mengetahui posisi dan momentum partikel secara bersamaan?",
+    "options": ["Prinsip Ketidakpastian Heisenberg", "Prinsip Pauli", "Prinsip Aufbau", "Prinsip Exklusi"],
+    "answer": "Prinsip Ketidakpastian Heisenberg"
+  },
+  {
+    "question": "Dalam astronomi, apa nama teori yang menjelaskan asal-usul alam semesta?",
+    "options": ["Teori Big Bang", "Teori Steady State", "Teori Nebula", "Teori Pulsating"],
+    "answer": "Teori Big Bang"
+  },
+  {
+    "question": "Apa nama proses dimana tumbuhan mengubah cahaya matahari menjadi energi kimia?",
+    "options": ["Fotosintesis", "Respirasi", "Transpirasi", "Fotolisis"],
+    "answer": "Fotosintesis"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana mRNA disintesis dari template DNA?",
+    "options": ["Transkripsi", "Translasi", "Replikasi", "Transduksi"],
+    "answer": "Transkripsi"
+  },
+  {
+    "question": "Apa nama enzim yang mengkatalisis pembentukan ikatan fosfodiester antara nukleotida selama replikasi DNA?",
+    "options": ["DNA polimerase", "Helikase", "Ligase", "Primase"],
+    "answer": "DNA polimerase"
+  },
+  {
+    "question": "Dalam fisika partikel, apa nama partikel elementer yang memberikan massa pada partikel lain melalui mekanisme Higgs?",
+    "options": ["Boson Higgs", "Gluon", "Neutrino", "Quark Top"],
+    "answer": "Boson Higgs"
+  },
+  {
+    "question": "Apa nama teori dalam geologi yang menjelaskan pergerakan lempeng tektonik?",
+    "options": ["Teori Pergeseran Benua", "Teori Uniformitarianisme", "Teori Katastrofisme", "Teori Isostasi"],
+    "answer": "Teori Pergeseran Benua"
+  },
+  {
+    "question": "Dalam kimia organik, apa nama reaksi dimana alkena diubah menjadi alkana dengan penambahan hidrogen?",
+    "options": ["Hidrogenasi", "Oksidasi", "Halogenasi", "Sulfonasi"],
+    "answer": "Hidrogenasi"
+  },
+  {
+    "question": "Apa nama struktur kristal dimana atom-atom tersusun dalam kubus dengan atom di setiap sudut dan di pusat setiap muka?",
+    "options": ["Face-centered cubic (FCC)", "Body-centered cubic (BCC)", "Hexagonal close-packed (HCP)", "Simple cubic"],
+    "answer": "Face-centered cubic (FCC)"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan bulat lebih besar dari 1 adalah bilangan prima atau dapat difaktorkan menjadi bilangan prima secara unik?",
+    "options": ["Teorema Dasar Aritmatika", "Teorema Terakhir Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Dasar Aritmatika"
+  },
+  {
+    "question": "Apa nama proses dalam biologi molekuler dimana informasi genetik dari mRNA diterjemahkan menjadi urutan asam amino?",
+    "options": ["Translasi", "Transkripsi", "Replikasi", "Transduksi"],
+    "answer": "Translasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya fiktif yang muncul dalam kerangka acuan yang berputar?",
+    "options": ["Gaya Coriolis", "Gaya Sentripetal", "Gaya Sentrifugal", "Gaya Lorentz"],
+    "answer": "Gaya Coriolis"
+  },
+  {
+    "question": "Apa nama protein yang mengkatalisis reaksi biokimia dalam sel?",
+    "options": ["Enzim", "Antibodi", "Hormon", "Reseptor"],
+    "answer": "Enzim"
+  },
+  {
+    "question": "Dalam kimia, apa nama hukum yang menyatakan bahwa volume gas berbanding lurus dengan jumlah molekul gas pada tekanan dan temperatur konstan?",
+    "options": ["Hukum Avogadro", "Hukum Boyle", "Hukum Charles", "Hukum Gay-Lussac"],
+    "answer": "Hukum Avogadro"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang tidak memiliki muatan listrik dan bermassa sangat kecil?",
+    "options": ["Neutrino", "Proton", "Elektron", "Neutron"],
+    "answer": "Neutrino"
+  },
+  {
+    "question": "Dalam teori bilangan, apa nama bilangan yang hanya dapat dibagi oleh 1 dan dirinya sendiri?",
+    "options": ["Bilangan prima", "Bilangan komposit", "Bilangan sempurna", "Bilangan amikal"],
+    "answer": "Bilangan prima"
+  },
+  {
+    "question": "Apa nama proses dimana sel membelah diri menjadi dua sel anak yang identik secara genetik?",
+    "options": ["Mitosis", "Meiosis", "Endositosis", "Eksositosis"],
+    "answer": "Mitosis"
+  },
+  {
+    "question": "Dalam fisika kuantum, apa nama efek dimana partikel dapat menembus penghalang meskipun secara klasik tidak memiliki energi yang cukup?",
+    "options": ["Efek Terobosan Kuantum", "Efek Fotolistrik", "Efek Compton", "Efek Zeeman"],
+    "answer": "Efek Terobosan Kuantum"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai pusat pengendali aktivitas sel?",
+    "options": ["Nukleus", "Mitokondria", "Ribosom", "Aparatus Golgi"],
+    "answer": "Nukleus"
+  },
+  {
+    "question": "Dalam kimia analitik, apa nama metode untuk menentukan konsentrasi larutan dengan mereaksikannya dengan larutan standar?",
+    "options": ["Titrasi", "Spektrofotometri", "Kromatografi", "Elektroforesis"],
+    "answer": "Titrasi"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi sistem terisolasi selalu meningkat?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Nol Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama perubahan urutan DNA yang dapat menyebabkan variasi genetik?",
+    "options": ["Mutasi", "Rekombinasi", "Transposisi", "Konjugasi"],
+    "answer": "Mutasi"
+  },
+  {
+    "question": "Apa nama partikel yang membawa gaya elektromagnetik?",
+    "options": ["Foton", "Gluon", "Boson W", "Graviton"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan irasional yang merupakan rasio keliling lingkaran terhadap diameternya?",
+    "options": ["π (pi)", "e (bilangan Euler)", "φ (rasio emas)", "√2"],
+    "answer": "π (pi)"
+  },
+  {
+    "question": "Apa nama proses dimana sel menggunakan energi untuk memindahkan molekul melawan gradien konsentrasi?",
+    "options": ["Transport aktif", "Difusi", "Osmosis", "Difusi terfasilitasi"],
+    "answer": "Transport aktif"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggabungkan mekanika kuantum dengan relativitas khusus?",
+    "options": ["Elektrodinamika kuantum", "Teori medan kuantum", "Mekanika matriks", "Mekanika gelombang"],
+    "answer": "Elektrodinamika kuantum"
+  },
+  {
+    "question": "Apa nama struktur dalam sel tumbuhan yang mengandung klorofil dan tempat terjadinya fotosintesis?",
+    "options": ["Kloroplas", "Mitokondria", "Vakuola", "Dinding sel"],
+    "answer": "Kloroplas"
+  },
+  {
+    "question": "Dalam kimia, apa nama ikatan dimana pasangan elektron dibagi secara tidak merata antara dua atom?",
+    "options": ["Ikatan kovalen polar", "Ikatan ion", "Ikatan kovalen nonpolar", "Ikatan hidrogen"],
+    "answer": "Ikatan kovalen polar"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa partikel dapat berperilaku seperti gelombang dan partikel?",
+    "options": ["Dualitas gelombang-partikel", "Prinsip Ketidakpastian", "Prinsip Pauli", "Prinsip Superposisi"],
+    "answer": "Dualitas gelombang-partikel"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana organisme yang lebih cocok dengan lingkungannya cenderung bertahan hidup dan bereproduksi?",
+    "options": ["Seleksi alam", "Spesiasi", "Adaptasi", "Evolusi konvergen"],
+    "answer": "Seleksi alam"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang membawa muatan listrik negatif?",
+    "options": ["Elektron", "Proton", "Neutron", "Positron"],
+    "answer": "Elektron"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa dalam segitiga siku-siku, kuadrat sisi miring sama dengan jumlah kuadrat sisi lainnya?",
+    "options": ["Teorema Pythagoras", "Teorema Thales", "Teorema Euclid", "Teorema Fermat"],
+    "answer": "Teorema Pythagoras"
+  },
+  {
+    "question": "Apa nama proses dimana sel eukariotik menghasilkan energi dalam bentuk ATP?",
+    "options": ["Respirasi seluler", "Fotosintesis", "Fermentasi", "Glikolisis"],
+    "answer": "Respirasi seluler"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang bekerja pada benda bergerak dalam fluida yang berlawanan dengan arah gerak benda?",
+    "options": ["Gaya gesek", "Gaya apung", "Gaya normal", "Gaya tegangan"],
+    "answer": "Gaya gesek"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis protein?",
+    "options": ["Ribosom", "Mitokondria", "Lisosom", "Retikulum endoplasma"],
+    "answer": "Ribosom"
+  },
+  {
+    "question": "Dalam kimia, apa nama larutan yang dapat menahan perubahan pH ketika ditambahkan asam atau basa dalam jumlah kecil?",
+    "options": ["Buffer", "Asam kuat", "Basa kuat", "Larutan netral"],
+    "answer": "Buffer"
+  },
+  {
+    "question": "Apa nama prinsip dalam fisika yang menyatakan bahwa energi tidak dapat diciptakan atau dimusnahkan, hanya diubah bentuknya?",
+    "options": ["Hukum Kekekalan Energi", "Hukum Termodinamika Kedua", "Hukum Gerak Newton", "Hukum Coulomb"],
+    "answer": "Hukum Kekekalan Energi"
+  },
+  {
+    "question": "Dalam genetika, apa nama molekul yang membawa informasi genetik dari generasi ke generasi?",
+    "options": ["DNA", "RNA", "Protein", "Lipid"],
+    "answer": "DNA"
+  },
+  {
+    "question": "Apa nama partikel yang membawa gaya nuklir lemah?",
+    "options": ["Boson W dan Z", "Gluon", "Foton", "Graviton"],
+    "answer": "Boson W dan Z"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan akar dari persamaan polinomial dengan koefisien bulat?",
+    "options": ["Bilangan aljabar", "Bilangan transenden", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan aljabar"
+  },
+  {
+    "question": "Apa nama proses dimana sel menelan partikel besar atau mikroorganisme?",
+    "options": ["Fagositosis", "Pinositosis", "Eksositosis", "Difusi"],
+    "answer": "Fagositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan interaksi antara muatan listrik dan medan elektromagnetik?",
+    "options": ["Elektrodinamika klasik", "Mekanika kuantum", "Relativitas umum", "Termodinamika statistik"],
+    "answer": "Elektrodinamika klasik"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi sebagai tempat respirasi seluler dan produksi ATP?",
+    "options": ["Mitokondria", "Nukleus", "Kloroplas", "Retikulum endoplasma"],
+    "answer": "Mitokondria"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana asam dan basa bereaksi membentuk garam dan air?",
+    "options": ["Reaksi netralisasi", "Reaksi redoks", "Reaksi substitusi", "Reaksi eliminasi"],
+    "answer": "Reaksi netralisasi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa dua fermion identik tidak dapat menempati keadaan kuantum yang sama secara bersamaan?",
+    "options": ["Prinsip Pengecualian Pauli", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengecualian Pauli"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana populasi menjadi terpisah secara reproduktif dan berkembang menjadi spesies baru?",
+    "options": ["Spesiasi", "Adaptasi", "Seleksi alam", "Evolusi konvergen"],
+    "answer": "Spesiasi"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang membawa muatan listrik positif dalam inti atom?",
+    "options": ["Proton", "Elektron", "Neutron", "Positron"],
+    "answer": "Proton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang tidak dapat dinyatakan sebagai pecahan dari dua bilangan bulat?",
+    "options": ["Bilangan irasional", "Bilangan rasional", "Bilangan bulat", "Bilangan natural"],
+    "answer": "Bilangan irasional"
+  },
+  {
+    "question": "Apa nama proses dimana sel mengeluarkan molekul besar melalui vesikel?",
+    "options": ["Eksositosis", "Endositosis", "Difusi", "Osmosis"],
+    "answer": "Eksositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda bermassa saling tarik menarik?",
+    "options": ["Gaya gravitasi", "Gaya elektromagnetik", "Gaya nuklir kuat", "Gaya nuklir lemah"],
+    "answer": "Gaya gravitasi"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai sistem transportasi internal?",
+    "options": ["Retikulum endoplasma", "Mitokondria", "Lisosom", "Aparatus Golgi"],
+    "answer": "Retikulum endoplasma"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 1 dalam tabel periodik?",
+    "options": ["Hidrogen", "Helium", "Litium", "Berilium"],
+    "answer": "Hidrogen"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa energi total sistem terisolasi adalah konstan?",
+    "options": ["Hukum Pertama Termodinamika", "Hukum Kedua Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Pertama Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana DNA disalin sebelum pembelahan sel?",
+    "options": ["Replikasi", "Transkripsi", "Translasi", "Rekombinasi"],
+    "answer": "Replikasi"
+  },
+  {
+    "question": "Apa nama partikel yang dihipotesiskan membawa gaya gravitasi?",
+    "options": ["Graviton", "Foton", "Gluon", "Boson W"],
+    "answer": "Graviton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan solusi dari persamaan x² + 1 = 0?",
+    "options": ["i (bilangan imajiner)", "e (bilangan Euler)", "π (pi)", "φ (rasio emas)"],
+    "answer": "i (bilangan imajiner)"
+  },
+  {
+    "question": "Apa nama proses dimana sel tumbuhan menggunakan energi cahaya untuk menghasilkan glukosa?",
+    "options": ["Fotosintesis", "Respirasi", "Fermentasi", "Glikolisis"],
+    "answer": "Fotosintesis"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan gravitasi sebagai kelengkungan ruang-waktu?",
+    "options": ["Relativitas Umum", "Relativitas Khusus", "Mekanika Kuantum", "Elektrodinamika Kuantum"],
+    "answer": "Relativitas Umum"
+  },
+  {
+    "question": "Apa nama organel sel yang mengandung enzim pencernaan untuk memecah molekul besar?",
+    "options": ["Lisosom", "Mitokondria", "Ribosom", "Vakuola"],
+    "answer": "Lisosom"
+  },
+  {
+    "question": "Dalam kimia, apa nama ikatan dimana elektron dibagi secara merata antara dua atom?",
+    "options": ["Ikatan kovalen nonpolar", "Ikatan ion", "Ikatan kovalen polar", "Ikatan hidrogen"],
+    "answer": "Ikatan kovalen nonpolar"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa keadaan kuantum dapat dijumlahkan secara linear?",
+    "options": ["Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Pengecualian", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Superposisi"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana sifat yang menguntungkan menjadi lebih umum dalam populasi dari generasi ke generasi?",
+    "options": ["Seleksi alam", "Spesiasi", "Adaptasi", "Mutasi"],
+    "answer": "Seleksi alam"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang tidak memiliki muatan listrik dan ditemukan dalam inti atom?",
+    "options": ["Neutron", "Proton", "Elektron", "Positron"],
+    "answer": "Neutron"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan genap lebih besar dari 2 dapat dinyatakan sebagai jumlah dua bilangan prima?",
+    "options": ["Konjektur Goldbach", "Teorema Terakhir Fermat", "Hipotesis Riemann", "Konjektur Poincaré"],
+    "answer": "Konjektur Goldbach"
+  },
+  {
+    "question": "Apa nama proses dimana sel menyerap cairan ekstraseluler?",
+    "options": ["Pinositosis", "Fagositosis", "Eksositosis", "Difusi"],
+    "answer": "Pinositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang bekerja pada muatan listrik yang bergerak dalam medan magnet?",
+    "options": ["Gaya Lorentz", "Gaya Coulomb", "Gaya Ampere", "Gaya Faraday"],
+    "answer": "Gaya Lorentz"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi memodifikasi, menyortir, dan mengemas protein untuk sekresi?",
+    "options": ["Aparatus Golgi", "Retikulum endoplasma", "Mitokondria", "Lisosom"],
+    "answer": "Aparatus Golgi"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 8 dalam tabel periodik?",
+    "options": ["Oksigen", "Nitrogen", "Karbon", "Fluor"],
+    "answer": "Oksigen"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi kristal sempurna pada nol absolut adalah nol?",
+    "options": ["Hukum Ketiga Termodinamika", "Hukum Pertama Termodinamika", "Hukum Kedua Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Ketiga Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana informasi genetik dalam DNA diubah menjadi RNA?",
+    "options": ["Transkripsi", "Translasi", "Replikasi", "Transduksi"],
+    "answer": "Transkripsi"
+  },
+  {
+    "question": "Apa nama partikel yang membawa gaya elektromagnetik dalam elektrodinamika kuantum?",
+    "options": ["Foton", "Gluon", "Boson W", "Graviton"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan jumlah dari deret 1 + 1/2 + 1/4 + 1/8 + ...?",
+    "options": ["2", "1", "∞", "1.5"],
+    "answer": "2"
+  },
+  {
+    "question": "Apa nama proses dimana sel menghasilkan energi tanpa oksigen?",
+    "options": ["Fermentasi", "Respirasi aerob", "Fotosintesis", "Glikolisis"],
+    "answer": "Fermentasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggabungkan elektromagnetisme dengan gaya nuklir lemah?",
+    "options": ["Teori elektrolemah", "Teori medan kuantum", "Teori dawai", "Teori kromodinamika kuantum"],
+    "answer": "Teori elektrolemah"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi sebagai tempat penyimpanan?",
+    "options": ["Vakuola", "Mitokondria", "Ribosom", "Lisosom"],
+    "answer": "Vakuola"
+  },
+  {
+    "question": "Dalam kimia, apa nama ikatan yang terbentuk antara atom yang sangat elektronegatif dengan atom hidrogen yang terikat pada atom elektronegatif lain?",
+    "options": ["Ikatan hidrogen", "Ikatan ion", "Ikatan kovalen", "Ikatan logam"],
+    "answer": "Ikatan hidrogen"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa pengukuran suatu sistem kuantum mengubah keadaan sistem tersebut?",
+    "options": ["Prinsip Pengukuran Kuantum", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengukuran Kuantum"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana organisme mengembangkan ciri-ciri yang meningkatkan kesesuaian dengan lingkungan?",
+    "options": ["Adaptasi", "Spesiasi", "Seleksi alam", "Evolusi konvergen"],
+    "answer": "Adaptasi"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari elektron?",
+    "options": ["Positron", "Proton", "Neutron", "Neutrino"],
+    "answer": "Positron"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa untuk setiap bilangan bulat n > 2, tidak ada bilangan bulat a, b, c yang memenuhi aⁿ + bⁿ = cⁿ?",
+    "options": ["Teorema Terakhir Fermat", "Teorema Pythagoras", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Terakhir Fermat"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak dari daerah konsentrasi tinggi ke rendah tanpa energi?",
+    "options": ["Difusi", "Transport aktif", "Osmosis", "Difusi terfasilitasi"],
+    "answer": "Difusi"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda berputar mengikuti lintasan melingkar?",
+    "options": ["Gaya sentripetal", "Gaya sentrifugal", "Gaya Coriolis", "Gaya normal"],
+    "answer": "Gaya sentripetal"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang memberikan bentuk dan dukungan mekanis?",
+    "options": ["Sitoskeleton", "Membran sel", "Dinding sel", "Matriks ekstraseluler"],
+    "answer": "Sitoskeleton"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 6 dalam tabel periodik?",
+    "options": ["Karbon", "Nitrogen", "Oksigen", "Boron"],
+    "answer": "Karbon"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa jika dua sistem dalam kesetimbangan termal dengan sistem ketiga, maka mereka dalam kesetimbangan termal satu sama lain?",
+    "options": ["Hukum Nol Termodinamika", "Hukum Pertama Termodinamika", "Hukum Kedua Termodinamika", "Hukum Ketiga Termodinamika"],
+    "answer": "Hukum Nol Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana informasi dalam mRNA digunakan untuk membuat protein?",
+    "options": ["Translasi", "Transkripsi", "Replikasi", "Transduksi"],
+    "answer": "Translasi"
+  },
+  {
+    "question": "Apa nama partikel yang membawa gaya nuklir kuat antara quark?",
+    "options": ["Gluon", "Foton", "Boson W", "Graviton"],
+    "answer": "Gluon"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan limit dari (1 + 1/n)ⁿ ketika n mendekati tak terhingga?",
+    "options": ["e (bilangan Euler)", "π (pi)", "φ (rasio emas)", "i (bilangan imajiner)"],
+    "answer": "e (bilangan Euler)"
+  },
+  {
+    "question": "Apa nama proses awal dalam respirasi seluler dimana glukosa dipecah menjadi piruvat?",
+    "options": ["Glikolisis", "Siklus Krebs", "Rantai transpor elektron", "Fermentasi"],
+    "answer": "Glikolisis"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan interaksi antara quark dan gluon?",
+    "options": ["Kromodinamika kuantum", "Elektrodinamika kuantum", "Teori elektrolemah", "Teori medan kuantum"],
+    "answer": "Kromodinamika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang hanya ditemukan pada sel tumbuhan dan berfungsi dalam fotosintesis?",
+    "options": ["Kloroplas", "Mitokondria", "Vakuola", "Dinding sel"],
+    "answer": "Kloroplas"
+  },
+  {
+    "question": "Dalam kimia, apa nama ikatan yang terbentuk dari transfer elektron dari satu atom ke atom lain?",
+    "options": ["Ikatan ion", "Ikatan kovalen", "Ikatan hidrogen", "Ikatan logam"],
+    "answer": "Ikatan ion"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa sifat partikel dapat berperilaku seperti gelombang dan partikel tergantung pada pengamatan?",
+    "options": ["Prinsip Komplementaritas", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Pengecualian"],
+    "answer": "Prinsip Komplementaritas"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies yang tidak terkait mengembangkan ciri-ciri serupa karena adaptasi terhadap lingkungan yang sama?",
+    "options": ["Evolusi konvergen", "Seleksi alam", "Spesiasi", "Adaptasi"],
+    "answer": "Evolusi konvergen"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang termasuk dalam keluarga lepton?",
+    "options": ["Elektron", "Quark", "Gluon", "Boson"],
+    "answer": "Elektron"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap pemetaan kontinu dari cakram tertutup ke dirinya sendiri memiliki setidaknya satu titik tetap?",
+    "options": ["Teorema Titik Tetap Brouwer", "Teorema Nilai Rata-rata", "Teorema Fungsi Implisit", "Teorema Stokes"],
+    "answer": "Teorema Titik Tetap Brouwer"
+  },
+  {
+    "question": "Apa nama proses dimana air bergerak melalui membran semipermeabel dari larutan encer ke pekat?",
+    "options": ["Osmosis", "Difusi", "Transport aktif", "Difusi terfasilitasi"],
+    "answer": "Osmosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya semu yang muncul dalam kerangka acuan yang berputar?",
+    "options": ["Gaya sentrifugal", "Gaya sentripetal", "Gaya Coriolis", "Gaya normal"],
+    "answer": "Gaya sentrifugal"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai penghalang selektif antara interior sel dan lingkungan eksternal?",
+    "options": ["Membran sel", "Dinding sel", "Sitoskeleton", "Matriks ekstraseluler"],
+    "answer": "Membran sel"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 79 dalam tabel periodik?",
+    "options": ["Emas", "Perak", "Tembaga", "Platina"],
+    "answer": "Emas"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang mendefinisikan suhu sebagai kuantitas yang diukur?",
+    "options": ["Hukum Nol Termodinamika", "Hukum Pertama Termodinamika", "Hukum Kedua Termodinamika", "Hukum Ketiga Termodinamika"],
+    "answer": "Hukum Nol Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana bakteri mengambil DNA dari lingkungannya?",
+    "options": ["Transformasi", "Transduksi", "Konjugasi", "Transposisi"],
+    "answer": "Transformasi"
+  },
+  {
+    "question": "Apa nama partikel yang merupakan penyusun proton dan neutron?",
+    "options": ["Quark", "Elektron", "Neutrino", "Boson"],
+    "answer": "Quark"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan rasio (1+√5)/2?",
+    "options": ["φ (rasio emas)", "π (pi)", "e (bilangan Euler)", "i (bilangan imajiner)"],
+    "answer": "φ (rasio emas)"
+  },
+  {
+    "question": "Apa nama proses kedua dalam respirasi seluler yang terjadi di mitokondria?",
+    "options": ["Siklus Krebs", "Glikolisis", "Rantai transpor elektron", "Fermentasi"],
+    "answer": "Siklus Krebs"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang mencoba menggabungkan semua gaya fundamental alam semesta?",
+    "options": ["Teori Segalanya", "Teori Medan Kuantum", "Teori Dawai", "Teori Loop Quantum Gravity"],
+    "answer": "Teori Segalanya"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi sebagai tempat degradasi komponen sel yang rusak?",
+    "options": ["Lisosom", "Peroksisom", "Vakuola", "Retikulum endoplasma"],
+    "answer": "Lisosom"
+  },
+  {
+    "question": "Dalam kimia, apa nama ikatan yang terbentuk antara atom-atom logam?",
+    "options": ["Ikatan logam", "Ikatan ion", "Ikatan kovalen", "Ikatan hidrogen"],
+    "answer": "Ikatan logam"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa kita tidak dapat mengetahui secara pasti posisi dan momentum partikel secara bersamaan?",
+    "options": ["Prinsip Ketidakpastian Heisenberg", "Prinsip Superposisi", "Prinsip Komplementaritas", "Prinsip Pengecualian"],
+    "answer": "Prinsip Ketidakpastian Heisenberg"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana satu spesies berevolusi menjadi banyak spesies yang mengisi ceruk ekologi berbeda?",
+    "options": ["Radiasi adaptif", "Evolusi konvergen", "Seleksi alam", "Spesiasi alopatrik"],
+    "answer": "Radiasi adaptif"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang termasuk dalam keluarga fermion dan memiliki spin 1/2?",
+    "options": ["Quark", "Foton", "Gluon", "Boson W"],
+    "answer": "Quark"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan bulat positif dapat dinyatakan sebagai jumlah dari paling banyak tiga bilangan segitiga?",
+    "options": ["Teorema Gauss", "Teorema Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Gauss"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak melawan gradien konsentrasi dengan bantuan protein membran?",
+    "options": ["Difusi terfasilitasi", "Transport aktif", "Osmosis", "Difusi sederhana"],
+    "answer": "Difusi terfasilitasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda jatuh ke bumi?",
+    "options": ["Gaya gravitasi", "Gaya elektromagnetik", "Gaya nuklir kuat", "Gaya nuklir lemah"],
+    "answer": "Gaya gravitasi"
+  },
+  {
+    "question": "Apa nama struktur dalam sel tumbuhan yang memberikan kekakuan dan perlindungan?",
+    "options": ["Dinding sel", "Membran sel", "Sitoskeleton", "Matriks ekstraseluler"],
+    "answer": "Dinding sel"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 92 dalam tabel periodik?",
+    "options": ["Uranium", "Plutonium", "Thorium", "Radium"],
+    "answer": "Uranium"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa efisiensi mesin kalor tidak bisa 100%?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana virus mentransfer DNA dari satu bakteri ke bakteri lain?",
+    "options": ["Transduksi", "Transformasi", "Konjugasi", "Transposisi"],
+    "answer": "Transduksi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan memiliki spin bilangan bulat?",
+    "options": ["Foton", "Elektron", "Quark", "Neutrino"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang tidak dapat dinyatakan sebagai akar dari persamaan polinomial dengan koefisien bulat?",
+    "options": ["Bilangan transenden", "Bilangan aljabar", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan transenden"
+  },
+  {
+    "question": "Apa nama proses ketiga dalam respirasi seluler yang menghasilkan ATP paling banyak?",
+    "options": ["Rantai transpor elektron", "Glikolisis", "Siklus Krebs", "Fermentasi"],
+    "answer": "Rantai transpor elektron"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan gravitasi sebagai pertukaran graviton virtual?",
+    "options": ["Gravitasi kuantum", "Relativitas umum", "Teori dawai", "Teori loop quantum gravity"],
+    "answer": "Gravitasi kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam detoksifikasi dan produksi lipid?",
+    "options": ["Retikulum endoplasma halus", "Retikulum endoplasma kasar", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma halus"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana atom atau kelompok atom digantikan oleh atom atau kelompok atom lain?",
+    "options": ["Reaksi substitusi", "Reaksi eliminasi", "Reaksi adisi", "Reaksi redoks"],
+    "answer": "Reaksi substitusi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa fungsi gelombang harus antisimetris untuk fermion identik?",
+    "options": ["Prinsip Pengecualian Pauli", "Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengecualian Pauli"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies terpisah secara geografis berevolusi menjadi spesies berbeda?",
+    "options": ["Spesiasi alopatrik", "Spesiasi simpatrik", "Radiasi adaptif", "Evolusi konvergen"],
+    "answer": "Spesiasi alopatrik"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari proton?",
+    "options": ["Antiproton", "Positron", "Antineutron", "Antineutrino"],
+    "answer": "Antiproton"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan asli lebih besar dari 1 adalah produk dari bilangan prima secara unik?",
+    "options": ["Teorema Dasar Aritmatika", "Teorema Terakhir Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Dasar Aritmatika"
+  },
+  {
+    "question": "Apa nama proses dimana sel menelan partikel besar dengan membentuk pseudopodia?",
+    "options": ["Fagositosis", "Pinositosis", "Eksositosis", "Difusi"],
+    "answer": "Fagositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang bekerja antara muatan listrik?",
+    "options": ["Gaya Coulomb", "Gaya Lorentz", "Gaya Ampere", "Gaya Faraday"],
+    "answer": "Gaya Coulomb"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis protein untuk ekspor?",
+    "options": ["Retikulum endoplasma kasar", "Retikulum endoplasma halus", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma kasar"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 17 dalam tabel periodik?",
+    "options": ["Klorin", "Fluor", "Brom", "Iodin"],
+    "answer": "Klorin"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi sistem terisolasi selalu meningkat?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana bakteri mentransfer DNA melalui kontak langsung?",
+    "options": ["Konjugasi", "Transformasi", "Transduksi", "Transposisi"],
+    "answer": "Konjugasi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga fermion dan membentuk materi biasa?",
+    "options": ["Quark dan lepton", "Boson", "Gluon", "Foton"],
+    "answer": "Quark dan lepton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan solusi dari persamaan x³ - 2x - 5 = 0?",
+    "options": ["Bilangan aljabar", "Bilangan transenden", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan aljabar"
+  },
+  {
+    "question": "Apa nama proses dimana sel menghasilkan ATP tanpa oksigen dari piruvat?",
+    "options": ["Fermentasi", "Respirasi aerob", "Fotosintesis", "Glikolisis"],
+    "answer": "Fermentasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan interaksi antara cahaya dan materi?",
+    "options": ["Elektrodinamika kuantum", "Kromodinamika kuantum", "Teori elektrolemah", "Teori medan kuantum"],
+    "answer": "Elektrodinamika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam sintesis lipid dan detoksifikasi obat?",
+    "options": ["Retikulum endoplasma halus", "Retikulum endoplasma kasar", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma halus"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana molekul kecil bergabung membentuk molekul besar dengan melepas molekul kecil seperti air?",
+    "options": ["Reaksi kondensasi", "Reaksi hidrolisis", "Reaksi substitusi", "Reaksi eliminasi"],
+    "answer": "Reaksi kondensasi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa pengamatan sistem kuantum tidak dapat dilakukan tanpa mengubahnya?",
+    "options": ["Prinsip Pengukuran Kuantum", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengukuran Kuantum"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies berevolusi menjadi spesies baru tanpa isolasi geografis?",
+    "options": ["Spesiasi simpatrik", "Spesiasi alopatrik", "Radiasi adaptif", "Evolusi konvergen"],
+    "answer": "Spesiasi simpatrik"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari neutron?",
+    "options": ["Antineutron", "Antiproton", "Positron", "Antineutrino"],
+    "answer": "Antineutron"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa untuk setiap bilangan prima p, (p-1)! ≡ -1 mod p?",
+    "options": ["Teorema Wilson", "Teorema Fermat Kecil", "Teorema Euler", "Teorema Lagrange"],
+    "answer": "Teorema Wilson"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak dari daerah konsentrasi rendah ke tinggi dengan menggunakan energi?",
+    "options": ["Transport aktif", "Difusi", "Osmosis", "Difusi terfasilitasi"],
+    "answer": "Transport aktif"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan jarum kompas menunjuk ke utara?",
+    "options": ["Gaya magnetik", "Gaya elektrik", "Gaya gravitasi", "Gaya nuklir"],
+    "answer": "Gaya magnetik"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis ribosom?",
+    "options": ["Nukleolus", "Nukleus", "Retikulum endoplasma", "Aparatus Golgi"],
+    "answer": "Nukleolus"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 26 dalam tabel periodik?",
+    "options": ["Besi", "Nikel", "Kobalt", "Mangan"],
+    "answer": "Besi"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang mendefinisikan entropi?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana gen berpindah lokasi dalam genom?",
+    "options": ["Transposisi", "Transformasi", "Transduksi", "Konjugasi"],
+    "answer": "Transposisi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan bertanggung jawab atas gaya nuklir lemah?",
+    "options": ["Boson W dan Z", "Foton", "Gluon", "Graviton"],
+    "answer": "Boson W dan Z"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan limit dari deret harmonik?",
+    "options": ["∞ (tak terhingga)", "1", "e (bilangan Euler)", "π (pi)"],
+    "answer": "∞ (tak terhingga)"
+  },
+  {
+    "question": "Apa nama proses dimana sel tumbuhan mengubah energi cahaya menjadi energi kimia?",
+    "options": ["Fotosintesis", "Respirasi", "Fermentasi", "Glikolisis"],
+    "answer": "Fotosintesis"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan perilaku partikel pada skala subatomik?",
+    "options": ["Mekanika kuantum", "Relativitas umum", "Elektrodinamika klasik", "Termodinamika statistik"],
+    "answer": "Mekanika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam modifikasi dan distribusi protein?",
+    "options": ["Aparatus Golgi", "Retikulum endoplasma", "Lisosom", "Mitokondria"],
+    "answer": "Aparatus Golgi"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana molekul besar dipecah menjadi molekul kecil dengan penambahan air?",
+    "options": ["Hidrolisis", "Kondensasi", "Substitusi", "Eliminasi"],
+    "answer": "Hidrolisis"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa partikel dapat berada di beberapa keadaan sekaligus?",
+    "options": ["Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Komplementaritas", "Prinsip Pengecualian"],
+    "answer": "Prinsip Superposisi"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana organisme yang tidak terkait mengembangkan ciri serupa karena adaptasi terhadap lingkungan yang sama?",
+    "options": ["Evolusi konvergen", "Seleksi alam", "Spesiasi", "Adaptasi"],
+    "answer": "Evolusi konvergen"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari neutrino?",
+    "options": ["Antineutrino", "Positron", "Antiproton", "Antineutron"],
+    "answer": "Antineutrino"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan genap lebih besar dari 2 dapat dinyatakan sebagai jumlah dua bilangan prima?",
+    "options": ["Konjektur Goldbach", "Teorema Terakhir Fermat", "Hipotesis Riemann", "Konjektur Poincaré"],
+    "answer": "Konjektur Goldbach"
+  },
+  {
+    "question": "Apa nama proses dimana sel mengeluarkan molekul besar melalui vesikel?",
+    "options": ["Eksositosis", "Endositosis", "Difusi", "Osmosis"],
+    "answer": "Eksositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda bergerak melingkar mengalami percepatan ke arah pusat?",
+    "options": ["Gaya sentripetal", "Gaya sentrifugal", "Gaya Coriolis", "Gaya normal"],
+    "answer": "Gaya sentripetal"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat degradasi peroksida?",
+    "options": ["Peroksisom", "Lisosom", "Vakuola", "Retikulum endoplasma"],
+    "answer": "Peroksisom"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 47 dalam tabel periodik?",
+    "options": ["Perak", "Emas", "Tembaga", "Platina"],
+    "answer": "Perak"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi kristal sempurna pada nol absolut adalah nol?",
+    "options": ["Hukum Ketiga Termodinamika", "Hukum Pertama Termodinamika", "Hukum Kedua Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Ketiga Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana gen berpindah dari satu kromosom ke kromosom lain?",
+    "options": ["Pindah silang (crossing over)", "Transposisi", "Transformasi", "Transduksi"],
+    "answer": "Pindah silang (crossing over)"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan bertanggung jawab atas gaya elektromagnetik?",
+    "options": ["Foton", "Gluon", "Boson W", "Graviton"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan solusi dari persamaan x² = -1?",
+    "options": ["i (bilangan imajiner)", "e (bilangan Euler)", "π (pi)", "φ (rasio emas)"],
+    "answer": "i (bilangan imajiner)"
+  },
+  {
+    "question": "Apa nama proses dimana sel menghasilkan energi dalam bentuk ATP?",
+    "options": ["Respirasi seluler", "Fotosintesis", "Fermentasi", "Glikolisis"],
+    "answer": "Respirasi seluler"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan gravitasi sebagai kelengkungan ruang-waktu?",
+    "options": ["Relativitas Umum", "Relativitas Khusus", "Mekanika Kuantum", "Elektrodinamika Kuantum"],
+    "answer": "Relativitas Umum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi sebagai tempat degradasi komponen sel yang rusak?",
+    "options": ["Lisosom", "Peroksisom", "Vakuola", "Retikulum endoplasma"],
+    "answer": "Lisosom"
+  },
+  {
+    "question": "Dalam kimia, apa nama ikatan yang terbentuk antara atom hidrogen dengan atom elektronegatif seperti oksigen atau nitrogen?",
+    "options": ["Ikatan hidrogen", "Ikatan ion", "Ikatan kovalen", "Ikatan logam"],
+    "answer": "Ikatan hidrogen"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa pengukuran suatu sistem kuantum mengubah keadaan sistem tersebut?",
+    "options": ["Prinsip Pengukuran Kuantum", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengukuran Kuantum"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana satu spesies berevolusi menjadi banyak spesies yang mengisi ceruk ekologi berbeda?",
+    "options": ["Radiasi adaptif", "Evolusi konvergen", "Seleksi alam", "Spesiasi alopatrik"],
+    "answer": "Radiasi adaptif"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang termasuk dalam keluarga fermion dan memiliki spin 1/2?",
+    "options": ["Quark", "Foton", "Gluon", "Boson W"],
+    "answer": "Quark"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan bulat positif dapat dinyatakan sebagai jumlah dari paling banyak tiga bilangan segitiga?",
+    "options": ["Teorema Gauss", "Teorema Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Gauss"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak melawan gradien konsentrasi dengan bantuan protein membran?",
+    "options": ["Difusi terfasilitasi", "Transport aktif", "Osmosis", "Difusi sederhana"],
+    "answer": "Difusi terfasilitasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda jatuh ke bumi?",
+    "options": ["Gaya gravitasi", "Gaya elektromagnetik", "Gaya nuklir kuat", "Gaya nuklir lemah"],
+    "answer": "Gaya gravitasi"
+  },
+  {
+    "question": "Apa nama struktur dalam sel tumbuhan yang memberikan kekakuan dan perlindungan?",
+    "options": ["Dinding sel", "Membran sel", "Sitoskeleton", "Matriks ekstraseluler"],
+    "answer": "Dinding sel"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 92 dalam tabel periodik?",
+    "options": ["Uranium", "Plutonium", "Thorium", "Radium"],
+    "answer": "Uranium"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa efisiensi mesin kalor tidak bisa 100%?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana virus mentransfer DNA dari satu bakteri ke bakteri lain?",
+    "options": ["Transduksi", "Transformasi", "Konjugasi", "Transposisi"],
+    "answer": "Transduksi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan memiliki spin bilangan bulat?",
+    "options": ["Foton", "Elektron", "Quark", "Neutrino"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang tidak dapat dinyatakan sebagai akar dari persamaan polinomial dengan koefisien bulat?",
+    "options": ["Bilangan transenden", "Bilangan aljabar", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan transenden"
+  },
+  {
+    "question": "Apa nama proses ketiga dalam respirasi seluler yang menghasilkan ATP paling banyak?",
+    "options": ["Rantai transpor elektron", "Glikolisis", "Siklus Krebs", "Fermentasi"],
+    "answer": "Rantai transpor elektron"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan gravitasi sebagai pertukaran graviton virtual?",
+    "options": ["Gravitasi kuantum", "Relativitas umum", "Teori dawai", "Teori loop quantum gravity"],
+    "answer": "Gravitasi kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam detoksifikasi dan produksi lipid?",
+    "options": ["Retikulum endoplasma halus", "Retikulum endoplasma kasar", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma halus"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana atom atau kelompok atom digantikan oleh atom atau kelompok atom lain?",
+    "options": ["Reaksi substitusi", "Reaksi eliminasi", "Reaksi adisi", "Reaksi redoks"],
+    "answer": "Reaksi substitusi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa fungsi gelombang harus antisimetris untuk fermion identik?",
+    "options": ["Prinsip Pengecualian Pauli", "Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengecualian Pauli"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies terpisah secara geografis berevolusi menjadi spesies berbeda?",
+    "options": ["Spesiasi alopatrik", "Spesiasi simpatrik", "Radiasi adaptif", "Evolusi konvergen"],
+    "answer": "Spesiasi alopatrik"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari proton?",
+    "options": ["Antiproton", "Positron", "Antineutron", "Antineutrino"],
+    "answer": "Antiproton"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan asli lebih besar dari 1 adalah produk dari bilangan prima secara unik?",
+    "options": ["Teorema Dasar Aritmatika", "Teorema Terakhir Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Dasar Aritmatika"
+  },
+  {
+    "question": "Apa nama proses dimana sel menelan partikel besar dengan membentuk pseudopodia?",
+    "options": ["Fagositosis", "Pinositosis", "Eksositosis", "Difusi"],
+    "answer": "Fagositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang bekerja antara muatan listrik?",
+    "options": ["Gaya Coulomb", "Gaya Lorentz", "Gaya Ampere", "Gaya Faraday"],
+    "answer": "Gaya Coulomb"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis protein untuk ekspor?",
+    "options": ["Retikulum endoplasma kasar", "Retikulum endoplasma halus", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma kasar"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 17 dalam tabel periodik?",
+    "options": ["Klorin", "Fluor", "Brom", "Iodin"],
+    "answer": "Klorin"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi sistem terisolasi selalu meningkat?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana bakteri mentransfer DNA melalui kontak langsung?",
+    "options": ["Konjugasi", "Transformasi", "Transduksi", "Transposisi"],
+    "answer": "Konjugasi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga fermion dan membentuk materi biasa?",
+    "options": ["Quark dan lepton", "Boson", "Gluon", "Foton"],
+    "answer": "Quark dan lepton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan solusi dari persamaan x³ - 2x - 5 = 0?",
+    "options": ["Bilangan aljabar", "Bilangan transenden", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan aljabar"
+  },
+  {
+    "question": "Apa nama proses dimana sel menghasilkan ATP tanpa oksigen dari piruvat?",
+    "options": ["Fermentasi", "Respirasi aerob", "Fotosintesis", "Glikolisis"],
+    "answer": "Fermentasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan interaksi antara cahaya dan materi?",
+    "options": ["Elektrodinamika kuantum", "Kromodinamika kuantum", "Teori elektrolemah", "Teori medan kuantum"],
+    "answer": "Elektrodinamika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam sintesis lipid dan detoksifikasi obat?",
+    "options": ["Retikulum endoplasma halus", "Retikulum endoplasma kasar", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma halus"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana molekul kecil bergabung membentuk molekul besar dengan melepas molekul kecil seperti air?",
+    "options": ["Reaksi kondensasi", "Reaksi hidrolisis", "Reaksi substitusi", "Reaksi eliminasi"],
+    "answer": "Reaksi kondensasi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa pengamatan sistem kuantum tidak dapat dilakukan tanpa mengubahnya?",
+    "options": ["Prinsip Pengukuran Kuantum", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengukuran Kuantum"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies berevolusi menjadi spesies baru tanpa isolasi geografis?",
+    "options": ["Spesiasi simpatrik", "Spesiasi alopatrik", "Radiasi adaptif", "Evolusi konvergen"],
+    "answer": "Spesiasi simpatrik"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari neutron?",
+    "options": ["Antineutron", "Antiproton", "Positron", "Antineutrino"],
+    "answer": "Antineutron"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa untuk setiap bilangan prima p, (p-1)! ≡ -1 mod p?",
+    "options": ["Teorema Wilson", "Teorema Fermat Kecil", "Teorema Euler", "Teorema Lagrange"],
+    "answer": "Teorema Wilson"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak dari daerah konsentrasi rendah ke tinggi dengan menggunakan energi?",
+    "options": ["Transport aktif", "Difusi", "Osmosis", "Difusi terfasilitasi"],
+    "answer": "Transport aktif"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan jarum kompas menunjuk ke utara?",
+    "options": ["Gaya magnetik", "Gaya elektrik", "Gaya gravitasi", "Gaya nuklir"],
+    "answer": "Gaya magnetik"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis ribosom?",
+    "options": ["Nukleolus", "Nukleus", "Retikulum endoplasma", "Aparatus Golgi"],
+    "answer": "Nukleolus"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 26 dalam tabel periodik?",
+    "options": ["Besi", "Nikel", "Kobalt", "Mangan"],
+    "answer": "Besi"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang mendefinisikan entropi?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana gen berpindah lokasi dalam genom?",
+    "options": ["Transposisi", "Transformasi", "Transduksi", "Konjugasi"],
+    "answer": "Transposisi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan bertanggung jawab atas gaya nuklir lemah?",
+    "options": ["Boson W dan Z", "Foton", "Gluon", "Graviton"],
+    "answer": "Boson W dan Z"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan limit dari deret harmonik?",
+    "options": ["∞ (tak terhingga)", "1", "e (bilangan Euler)", "π (pi)"],
+    "answer": "∞ (tak terhingga)"
+  },
+  {
+    "question": "Apa nama proses dimana sel tumbuhan mengubah energi cahaya menjadi energi kimia?",
+    "options": ["Fotosintesis", "Respirasi", "Fermentasi", "Glikolisis"],
+    "answer": "Fotosintesis"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan perilaku partikel pada skala subatomik?",
+    "options": ["Mekanika kuantum", "Relativitas umum", "Elektrodinamika klasik", "Termodinamika statistik"],
+    "answer": "Mekanika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam modifikasi dan distribusi protein?",
+    "options": ["Aparatus Golgi", "Retikulum endoplasma", "Lisosom", "Mitokondria"],
+    "answer": "Aparatus Golgi"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana molekul besar dipecah menjadi molekul kecil dengan penambahan water?",
+    "options": ["Hidrolisis", "Kondensasi", "Substitusi", "Eliminasi"],
+    "answer": "Hidrolisis"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa partikel dapat berada di beberapa keadaan sekaligus?",
+    "options": ["Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Komplementaritas", "Prinsip Pengecualian"],
+    "answer": "Prinsip Superposisi"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana organisme yang tidak terkait mengembangkan ciri serupa karena adaptasi terhadap lingkungan yang sama?",
+    "options": ["Evolusi konvergen", "Seleksi alam", "Spesiasi", "Adaptasi"],
+    "answer": "Evolusi konvergen"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari neutrino?",
+    "options": ["Antineutrino", "Positron", "Antiproton", "Antineutron"],
+    "answer": "Antineutrino"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan genap lebih besar dari 2 dapat dinyatakan sebagai jumlah dua bilangan prima?",
+    "options": ["Konjektur Goldbach", "Teorema Terakhir Fermat", "Hipotesis Riemann", "Konjektur Poincaré"],
+    "answer": "Konjektur Goldbach"
+  },
+  {
+    "question": "Apa nama proses dimana sel mengeluarkan molekul besar melalui vesikel?",
+    "options": ["Eksositosis", "Endositosis", "Difusi", "Osmosis"],
+    "answer": "Eksositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda bergerak melingkar mengalami percepatan ke arah pusat?",
+    "options": ["Gaya sentripetal", "Gaya sentrifugal", "Gaya Coriolis", "Gaya normal"],
+    "answer": "Gaya sentripetal"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat degradasi peroksida?",
+    "options": ["Peroksisom", "Lisosom", "Vakuola", "Retikulum endoplasma"],
+    "answer": "Peroksisom"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 47 dalam tabel periodik?",
+    "options": ["Perak", "Emas", "Tembaga", "Platina"],
+    "answer": "Perak"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi kristal sempurna pada nol absolut adalah nol?",
+    "options": ["Hukum Ketiga Termodinamika", "Hukum Pertama Termodinamika", "Hukum Kedua Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Ketiga Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana gen berpindah dari satu kromosom ke kromosom lain?",
+    "options": ["Pindah silang (crossing over)", "Transposisi", "Transformasi", "Transduksi"],
+    "answer": "Pindah silang (crossing over)"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan bertanggung jawab atas gaya elektromagnetik?",
+    "options": ["Foton", "Gluon", "Boson W", "Graviton"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan solusi dari persamaan x² = -1?",
+    "options": ["i (bilangan imajiner)", "e (bilangan Euler)", "π (pi)", "φ (rasio emas)"],
+    "answer": "i (bilangan imajiner)"
+  },
+  {
+    "question": "Apa nama proses dimana sel menghasilkan energi dalam bentuk ATP?",
+    "options": ["Respirasi seluler", "Fotosintesis", "Fermentasi", "Glikolisis"],
+    "answer": "Respirasi seluler"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan gravitasi sebagai kelengkungan ruang-waktu?",
+    "options": ["Relativitas Umum", "Relativitas Khusus", "Mekanika Kuantum", "Elektrodinamika Kuantum"],
+    "answer": "Relativitas Umum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi sebagai tempat degradasi komponen sel yang rusak?",
+    "options": ["Lisosom", "Peroksisom", "Vakuola", "Retikulum endoplasma"],
+    "answer": "Lisosom"
+  },
+  {
+    "question": "Dalam kimia, apa nama ikatan yang terbentuk antara atom hidrogen dengan atom elektronegatif seperti oksigen atau nitrogen?",
+    "options": ["Ikatan hidrogen", "Ikatan ion", "Ikatan kovalen", "Ikatan logam"],
+    "answer": "Ikatan hidrogen"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa pengukuran suatu sistem kuantum mengubah keadaan sistem tersebut?",
+    "options": ["Prinsip Pengukuran Kuantum", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengukuran Kuantum"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana satu spesies berevolusi menjadi banyak spesies yang mengisi ceruk ekologi berbeda?",
+    "options": ["Radiasi adaptif", "Evolusi konvergen", "Seleksi alam", "Spesiasi alopatrik"],
+    "answer": "Radiasi adaptif"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang termasuk dalam keluarga fermion dan memiliki spin 1/2?",
+    "options": ["Quark", "Foton", "Gluon", "Boson W"],
+    "answer": "Quark"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan bulat positif dapat dinyatakan sebagai jumlah dari paling banyak tiga bilangan segitiga?",
+    "options": ["Teorema Gauss", "Teorema Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Gauss"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak melawan gradien konsentrasi dengan bantuan protein membran?",
+    "options": ["Difusi terfasilitasi", "Transport aktif", "Osmosis", "Difusi sederhana"],
+    "answer": "Difusi terfasilitasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda jatuh ke bumi?",
+    "options": ["Gaya gravitasi", "Gaya elektromagnetik", "Gaya nuklir kuat", "Gaya nuklir lemah"],
+    "answer": "Gaya gravitasi"
+  },
+  {
+    "question": "Apa nama struktur dalam sel tumbuhan yang memberikan kekakuan dan perlindungan?",
+    "options": ["Dinding sel", "Membran sel", "Sitoskeleton", "Matriks ekstraseluler"],
+    "answer": "Dinding sel"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 92 dalam tabel periodik?",
+    "options": ["Uranium", "Plutonium", "Thorium", "Radium"],
+    "answer": "Uranium"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa efisiensi mesin kalor tidak bisa 100%?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana virus mentransfer DNA dari satu bakteri ke bakteri lain?",
+    "options": ["Transduksi", "Transformasi", "Konjugasi", "Transposisi"],
+    "answer": "Transduksi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan memiliki spin bilangan bulat?",
+    "options": ["Foton", "Elektron", "Quark", "Neutrino"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang tidak dapat dinyatakan sebagai akar dari persamaan polinomial dengan koefisien bulat?",
+    "options": ["Bilangan transenden", "Bilangan aljabar", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan transenden"
+  },
+  {
+    "question": "Apa nama proses ketiga dalam respirasi seluler yang menghasilkan ATP paling banyak?",
+    "options": ["Rantai transpor elektron", "Glikolisis", "Siklus Krebs", "Fermentasi"],
+    "answer": "Rantai transpor elektron"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan gravitasi sebagai pertukaran graviton virtual?",
+    "options": ["Gravitasi kuantum", "Relativitas umum", "Teori dawai", "Teori loop quantum gravity"],
+    "answer": "Gravitasi kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam detoksifikasi dan produksi lipid?",
+    "options": ["Retikulum endoplasma halus", "Retikulum endoplasma kasar", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma halus"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana atom atau kelompok atom digantikan oleh atom atau kelompok atom lain?",
+    "options": ["Reaksi substitusi", "Reaksi eliminasi", "Reaksi adisi", "Reaksi redoks"],
+    "answer": "Reaksi substitusi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa fungsi gelombang harus antisimetris untuk fermion identik?",
+    "options": ["Prinsip Pengecualian Pauli", "Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengecualian Pauli"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies terpisah secara geografis berevolusi menjadi spesies berbeda?",
+    "options": ["Spesiasi alopatrik", "Spesiasi simpatrik", "Radiasi adaptif", "Evolusi konvergen"],
+    "answer": "Spesiasi alopatrik"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari proton?",
+    "options": ["Antiproton", "Positron", "Antineutron", "Antineutrino"],
+    "answer": "Antiproton"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan asli lebih besar dari 1 adalah produk dari bilangan prima secara unik?",
+    "options": ["Teorema Dasar Aritmatika", "Teorema Terakhir Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Dasar Aritmatika"
+  },
+  {
+    "question": "Apa nama proses dimana sel menelan partikel besar dengan membentuk pseudopodia?",
+    "options": ["Fagositosis", "Pinositosis", "Eksositosis", "Difusi"],
+    "answer": "Fagositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang bekerja antara muatan listrik?",
+    "options": ["Gaya Coulomb", "Gaya Lorentz", "Gaya Ampere", "Gaya Faraday"],
+    "answer": "Gaya Coulomb"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis protein untuk ekspor?",
+    "options": ["Retikulum endoplasma kasar", "Retikulum endoplasma halus", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma kasar"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 17 dalam tabel periodik?",
+    "options": ["Klorin", "Fluor", "Brom", "Iodin"],
+    "answer": "Klorin"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi sistem terisolasi selalu meningkat?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana bakteri mentransfer DNA melalui kontak langsung?",
+    "options": ["Konjugasi", "Transformasi", "Transduksi", "Transposisi"],
+    "answer": "Konjugasi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga fermion dan membentuk materi biasa?",
+    "options": ["Quark dan lepton", "Boson", "Gluon", "Foton"],
+    "answer": "Quark dan lepton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan solusi dari persamaan x³ - 2x - 5 = 0?",
+    "options": ["Bilangan aljabar", "Bilangan transenden", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan aljabar"
+  },
+  {
+    "question": "Apa nama proses dimana sel menghasilkan ATP tanpa oksigen dari piruvat?",
+    "options": ["Fermentasi", "Respirasi aerob", "Fotosintesis", "Glikolisis"],
+    "answer": "Fermentasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan interaksi antara cahaya dan materi?",
+    "options": ["Elektrodinamika kuantum", "Kromodinamika kuantum", "Teori elektrolemah", "Teori medan kuantum"],
+    "answer": "Elektrodinamika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam sintesis lipid dan detoksifikasi obat?",
+    "options": ["Retikulum endoplasma halus", "Retikulum endoplasma kasar", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma halus"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana molekul kecil bergabung membentuk molekul besar dengan melepas molekul kecil seperti air?",
+    "options": ["Reaksi kondensasi", "Reaksi hidrolisis", "Reaksi substitusi", "Reaksi eliminasi"],
+    "answer": "Reaksi kondensasi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa pengamatan sistem kuantum tidak dapat dilakukan tanpa mengubahnya?",
+    "options": ["Prinsip Pengukuran Kuantum", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengukuran Kuantum"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies berevolusi menjadi spesies baru tanpa isolasi geografis?",
+    "options": ["Spesiasi simpatrik", "Spesiasi alopatrik", "Radiasi adaptif", "Evolusi konvergen"],
+    "answer": "Spesiasi simpatrik"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari neutron?",
+    "options": ["Antineutron", "Antiproton", "Positron", "Antineutrino"],
+    "answer": "Antineutron"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa untuk setiap bilangan prima p, (p-1)! ≡ -1 mod p?",
+    "options": ["Teorema Wilson", "Teorema Fermat Kecil", "Teorema Euler", "Teorema Lagrange"],
+    "answer": "Teorema Wilson"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak dari daerah konsentrasi rendah ke tinggi dengan menggunakan energi?",
+    "options": ["Transport aktif", "Difusi", "Osmosis", "Difusi terfasilitasi"],
+    "answer": "Transport aktif"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan jarum kompas menunjuk ke utara?",
+    "options": ["Gaya magnetik", "Gaya elektrik", "Gaya gravitasi", "Gaya nuklir"],
+    "answer": "Gaya magnetik"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis ribosom?",
+    "options": ["Nukleolus", "Nukleus", "Retikulum endoplasma", "Aparatus Golgi"],
+    "answer": "Nukleolus"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 26 dalam tabel periodik?",
+    "options": ["Besi", "Nikel", "Kobalt", "Mangan"],
+    "answer": "Besi"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang mendefinisikan entropi?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana gen berpindah lokasi dalam genom?",
+    "options": ["Transposisi", "Transformasi", "Transduksi", "Konjugasi"],
+    "answer": "Transposisi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan bertanggung jawab atas gaya nuklir lemah?",
+    "options": ["Boson W dan Z", "Foton", "Gluon", "Graviton"],
+    "answer": "Boson W dan Z"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan limit dari deret harmonik?",
+    "options": ["∞ (tak terhingga)", "1", "e (bilangan Euler)", "π (pi)"],
+    "answer": "∞ (tak terhingga)"
+  },
+  {
+    "question": "Apa nama proses dimana sel tumbuhan mengubah energi cahaya menjadi energi kimia?",
+    "options": ["Fotosintesis", "Respirasi", "Fermentasi", "Glikolisis"],
+    "answer": "Fotosintesis"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan perilaku partikel pada skala subatomik?",
+    "options": ["Mekanika kuantum", "Relativitas umum", "Elektrodinamika klasik", "Termodinamika statistik"],
+    "answer": "Mekanika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam modifikasi dan distribusi protein?",
+    "options": ["Aparatus Golgi", "Retikulum endoplasma", "Lisosom", "Mitokondria"],
+    "answer": "Aparatus Golgi"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana molekul besar dipecah menjadi molekul kecil dengan penambahan water?",
+    "options": ["Hidrolisis", "Kondensasi", "Substitusi", "Eliminasi"],
+    "answer": "Hidrolisis"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa partikel dapat berada di beberapa keadaan sekaligus?",
+    "options": ["Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Komplementaritas", "Prinsip Pengecualian"],
+    "answer": "Prinsip Superposisi"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana organisme yang tidak terkait mengembangkan ciri serupa karena adaptasi terhadap lingkungan yang sama?",
+    "options": ["Evolusi konvergen", "Seleksi alam", "Spesiasi", "Adaptasi"],
+    "answer": "Evolusi konvergen"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari neutrino?",
+    "options": ["Antineutrino", "Positron", "Antiproton", "Antineutron"],
+    "answer": "Antineutrino"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan genap lebih besar dari 2 dapat dinyatakan sebagai jumlah dua bilangan prima?",
+    "options": ["Konjektur Goldbach", "Teorema Terakhir Fermat", "Hipotesis Riemann", "Konjektur Poincaré"],
+    "answer": "Konjektur Goldbach"
+  },
+  {
+    "question": "Apa nama proses dimana sel mengeluarkan molekul besar melalui vesikel?",
+    "options": ["Eksositosis", "Endositosis", "Difusi", "Osmosis"],
+    "answer": "Eksositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda bergerak melingkar mengalami percepatan ke arah pusat?",
+    "options": ["Gaya sentripetal", "Gaya sentrifugal", "Gaya Coriolis", "Gaya normal"],
+    "answer": "Gaya sentripetal"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat degradasi peroksida?",
+    "options": ["Peroksisom", "Lisosom", "Vakuola", "Retikulum endoplasma"],
+    "answer": "Peroksisom"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 47 dalam tabel periodik?",
+    "options": ["Perak", "Emas", "Tembaga", "Platina"],
+    "answer": "Perak"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi kristal sempurna pada nol absolut adalah nol?",
+    "options": ["Hukum Ketiga Termodinamika", "Hukum Pertama Termodinamika", "Hukum Kedua Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Ketiga Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana gen berpindah dari satu kromosom ke kromosom lain?",
+    "options": ["Pindah silang (crossing over)", "Transposisi", "Transformasi", "Transduksi"],
+    "answer": "Pindah silang (crossing over)"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan bertanggung jawab atas gaya elektromagnetik?",
+    "options": ["Foton", "Gluon", "Boson W", "Graviton"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan solusi dari persamaan x² = -1?",
+    "options": ["i (bilangan imajiner)", "e (bilangan Euler)", "π (pi)", "φ (rasio emas)"],
+    "answer": "i (bilangan imajiner)"
+  },
+  {
+    "question": "Apa nama proses dimana sel menghasilkan energi dalam bentuk ATP?",
+    "options": ["Respirasi seluler", "Fotosintesis", "Fermentasi", "Glikolisis"],
+    "answer": "Respirasi seluler"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan gravitasi sebagai kelengkungan ruang-waktu?",
+    "options": ["Relativitas Umum", "Relativitas Khusus", "Mekanika Kuantum", "Elektrodinamika Kuantum"],
+    "answer": "Relativitas Umum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi sebagai tempat degradasi komponen sel yang rusak?",
+    "options": ["Lisosom", "Peroksisom", "Vakuola", "Retikulum endoplasma"],
+    "answer": "Lisosom"
+  },
+  {
+    "question": "Dalam kimia, apa nama ikatan yang terbentuk antara atom hidrogen dengan atom elektronegatif seperti oksigen atau nitrogen?",
+    "options": ["Ikatan hidrogen", "Ikatan ion", "Ikatan kovalen", "Ikatan logam"],
+    "answer": "Ikatan hidrogen"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa pengukuran suatu sistem kuantum mengubah keadaan sistem tersebut?",
+    "options": ["Prinsip Pengukuran Kuantum", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengukuran Kuantum"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana satu spesies berevolusi menjadi banyak spesies yang mengisi ceruk ekologi berbeda?",
+    "options": ["Radiasi adaptif", "Evolusi konvergen", "Seleksi alam", "Spesiasi alopatrik"],
+    "answer": "Radiasi adaptif"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang termasuk dalam keluarga fermion dan memiliki spin 1/2?",
+    "options": ["Quark", "Foton", "Gluon", "Boson W"],
+    "answer": "Quark"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan bulat positif dapat dinyatakan sebagai jumlah dari paling banyak tiga bilangan segitiga?",
+    "options": ["Teorema Gauss", "Teorema Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Gauss"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak melawan gradien konsentrasi dengan bantuan protein membran?",
+    "options": ["Difusi terfasilitasi", "Transport aktif", "Osmosis", "Difusi sederhana"],
+    "answer": "Difusi terfasilitasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda jatuh ke bumi?",
+    "options": ["Gaya gravitasi", "Gaya elektromagnetik", "Gaya nuklir kuat", "Gaya nuklir lemah"],
+    "answer": "Gaya gravitasi"
+  },
+  {
+    "question": "Apa nama struktur dalam sel tumbuhan yang memberikan kekakuan dan perlindungan?",
+    "options": ["Dinding sel", "Membran sel", "Sitoskeleton", "Matriks ekstraseluler"],
+    "answer": "Dinding sel"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 92 dalam tabel periodik?",
+    "options": ["Uranium", "Plutonium", "Thorium", "Radium"],
+    "answer": "Uranium"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa efisiensi mesin kalor tidak bisa 100%?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana virus mentransfer DNA dari satu bakteri ke bakteri lain?",
+    "options": ["Transduksi", "Transformasi", "Konjugasi", "Transposisi"],
+    "answer": "Transduksi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan memiliki spin bilangan bulat?",
+    "options": ["Foton", "Elektron", "Quark", "Neutrino"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang tidak dapat dinyatakan sebagai akar dari persamaan polinomial dengan koefisien bulat?",
+    "options": ["Bilangan transenden", "Bilangan aljabar", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan transenden"
+  },
+  {
+    "question": "Apa nama proses ketiga dalam respirasi seluler yang menghasilkan ATP paling banyak?",
+    "options": ["Rantai transpor elektron", "Glikolisis", "Siklus Krebs", "Fermentasi"],
+    "answer": "Rantai transpor elektron"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan gravitasi sebagai pertukaran graviton virtual?",
+    "options": ["Gravitasi kuantum", "Relativitas umum", "Teori dawai", "Teori loop quantum gravity"],
+    "answer": "Gravitasi kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam detoksifikasi dan produksi lipid?",
+    "options": ["Retikulum endoplasma halus", "Retikulum endoplasma kasar", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma halus"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana atom atau kelompok atom digantikan oleh atom atau kelompok atom lain?",
+    "options": ["Reaksi substitusi", "Reaksi eliminasi", "Reaksi adisi", "Reaksi redoks"],
+    "answer": "Reaksi substitusi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa fungsi gelombang harus antisimetris untuk fermion identik?",
+    "options": ["Prinsip Pengecualian Pauli", "Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengecualian Pauli"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies terpisah secara geografis berevolusi menjadi spesies berbeda?",
+    "options": ["Spesiasi alopatrik", "Spesiasi simpatrik", "Radiasi adaptif", "Evolusi konvergen"],
+    "answer": "Spesiasi alopatrik"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari proton?",
+    "options": ["Antiproton", "Positron", "Antineutron", "Antineutrino"],
+    "answer": "Antiproton"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan asli lebih besar dari 1 adalah produk dari bilangan prima secara unik?",
+    "options": ["Teorema Dasar Aritmatika", "Teorema Terakhir Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Dasar Aritmatika"
+  },
+  {
+    "question": "Apa nama proses dimana sel menelan partikel besar dengan membentuk pseudopodia?",
+    "options": ["Fagositosis", "Pinositosis", "Eksositosis", "Difusi"],
+    "answer": "Fagositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang bekerja antara muatan listrik?",
+    "options": ["Gaya Coulomb", "Gaya Lorentz", "Gaya Ampere", "Gaya Faraday"],
+    "answer": "Gaya Coulomb"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis protein untuk ekspor?",
+    "options": ["Retikulum endoplasma kasar", "Retikulum endoplasma halus", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma kasar"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 17 dalam tabel periodik?",
+    "options": ["Klorin", "Fluor", "Brom", "Iodin"],
+    "answer": "Klorin"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi sistem terisolasi selalu meningkat?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana bakteri mentransfer DNA melalui kontak langsung?",
+    "options": ["Konjugasi", "Transformasi", "Transduksi", "Transposisi"],
+    "answer": "Konjugasi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga fermion dan membentuk materi biasa?",
+    "options": ["Quark dan lepton", "Boson", "Gluon", "Foton"],
+    "answer": "Quark dan lepton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan solusi dari persamaan x³ - 2x - 5 = 0?",
+    "options": ["Bilangan aljabar", "Bilangan transenden", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan aljabar"
+  },
+  {
+    "question": "Apa nama proses dimana sel menghasilkan ATP tanpa oksigen dari piruvat?",
+    "options": ["Fermentasi", "Respirasi aerob", "Fotosintesis", "Glikolisis"],
+    "answer": "Fermentasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan interaksi antara cahaya dan materi?",
+    "options": ["Elektrodinamika kuantum", "Kromodinamika kuantum", "Teori elektrolemah", "Teori medan kuantum"],
+    "answer": "Elektrodinamika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam sintesis lipid dan detoksifikasi obat?",
+    "options": ["Retikulum endoplasma halus", "Retikulum endoplasma kasar", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma halus"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana molekul kecil bergabung membentuk molekul besar dengan melepas molekul kecil seperti water?",
+    "options": ["Reaksi kondensasi", "Reaksi hidrolisis", "Reaksi substitusi", "Reaksi eliminasi"],
+    "answer": "Reaksi kondensasi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa pengamatan sistem kuantum tidak dapat dilakukan tanpa mengubahnya?",
+    "options": ["Prinsip Pengukuran Kuantum", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengukuran Kuantum"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies berevolusi menjadi spesies baru tanpa isolasi geografis?",
+    "options": ["Spesiasi simpatrik", "Spesiasi alopatrik", "Radiasi adaptif", "Evolusi konvergen"],
+    "answer": "Spesiasi simpatrik"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari neutron?",
+    "options": ["Antineutron", "Antiproton", "Positron", "Antineutrino"],
+    "answer": "Antineutron"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa untuk setiap bilangan prima p, (p-1)! ≡ -1 mod p?",
+    "options": ["Teorema Wilson", "Teorema Fermat Kecil", "Teorema Euler", "Teorema Lagrange"],
+    "answer": "Teorema Wilson"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak dari daerah konsentrasi rendah ke tinggi dengan menggunakan energi?",
+    "options": ["Transport aktif", "Difusi", "Osmosis", "Difusi terfasilitasi"],
+    "answer": "Transport aktif"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan jarum kompas menunjuk ke utara?",
+    "options": ["Gaya magnetik", "Gaya elektrik", "Gaya gravitasi", "Gaya nuklir"],
+    "answer": "Gaya magnetik"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis ribosom?",
+    "options": ["Nukleolus", "Nukleus", "Retikulum endoplasma", "Aparatus Golgi"],
+    "answer": "Nukleolus"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 26 dalam tabel periodik?",
+    "options": ["Besi", "Nikel", "Kobalt", "Mangan"],
+    "answer": "Besi"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang mendefinisikan entropi?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana gen berpindah lokasi dalam genom?",
+    "options": ["Transposisi", "Transformasi", "Transduksi", "Konjugasi"],
+    "answer": "Transposisi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan bertanggung jawab atas gaya nuklir lemah?",
+    "options": ["Boson W dan Z", "Foton", "Gluon", "Graviton"],
+    "answer": "Boson W dan Z"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan limit dari deret harmonik?",
+    "options": ["∞ (tak terhingga)", "1", "e (bilangan Euler)", "π (pi)"],
+    "answer": "∞ (tak terhingga)"
+  },
+  {
+    "question": "Apa nama proses dimana sel tumbuhan mengubah energi cahaya menjadi energi kimia?",
+    "options": ["Fotosintesis", "Respirasi", "Fermentasi", "Glikolisis"],
+    "answer": "Fotosintesis"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan perilaku partikel pada skala subatomik?",
+    "options": ["Mekanika kuantum", "Relativitas umum", "Elektrodinamika klasik", "Termodinamika statistik"],
+    "answer": "Mekanika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam modifikasi dan distribusi protein?",
+    "options": ["Aparatus Golgi", "Retikulum endoplasma", "Lisosom", "Mitokondria"],
+    "answer": "Aparatus Golgi"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana molekul besar dipecah menjadi molekul kecil dengan penambahan water?",
+    "options": ["Hidrolisis", "Kondensasi", "Substitusi", "Eliminasi"],
+    "answer": "Hidrolisis"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa partikel dapat berada di beberapa keadaan sekaligus?",
+    "options": ["Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Komplementaritas", "Prinsip Pengecualian"],
+    "answer": "Prinsip Superposisi"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana organisme yang tidak terkait mengembangkan ciri serupa karena adaptasi terhadap lingkungan yang sama?",
+    "options": ["Evolusi konvergen", "Seleksi alam", "Spesiasi", "Adaptasi"],
+    "answer": "Evolusi konvergen"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari neutrino?",
+    "options": ["Antineutrino", "Positron", "Antiproton", "Antineutron"],
+    "answer": "Antineutrino"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan genap lebih besar dari 2 dapat dinyatakan sebagai jumlah dua bilangan prima?",
+    "options": ["Konjektur Goldbach", "Teorema Terakhir Fermat", "Hipotesis Riemann", "Konjektur Poincaré"],
+    "answer": "Konjektur Goldbach"
+  },
+  {
+    "question": "Apa nama proses dimana sel mengeluarkan molekul besar melalui vesikel?",
+    "options": ["Eksositosis", "Endositosis", "Difusi", "Osmosis"],
+    "answer": "Eksositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda bergerak melingkar mengalami percepatan ke arah pusat?",
+    "options": ["Gaya sentripetal", "Gaya sentrifugal", "Gaya Coriolis", "Gaya normal"],
+    "answer": "Gaya sentripetal"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat degradasi peroksida?",
+    "options": ["Peroksisom", "Lisosom", "Vakuola", "Retikulum endoplasma"],
+    "answer": "Peroksisom"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 47 dalam tabel periodik?",
+    "options": ["Perak", "Emas", "Tembaga", "Platina"],
+    "answer": "Perak"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi kristal sempurna pada nol absolut adalah nol?",
+    "options": ["Hukum Ketiga Termodinamika", "Hukum Pertama Termodinamika", "Hukum Kedua Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Ketiga Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana gen berpindah dari satu kromosom ke kromosom lain?",
+    "options": ["Pindah silang (crossing over)", "Transposisi", "Transformasi", "Transduksi"],
+    "answer": "Pindah silang (crossing over)"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan bertanggung jawab atas gaya elektromagnetik?",
+    "options": ["Foton", "Gluon", "Boson W", "Graviton"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan solusi dari persamaan x² = -1?",
+    "options": ["i (bilangan imajiner)", "e (bilangan Euler)", "π (pi)", "φ (rasio emas)"],
+    "answer": "i (bilangan imajiner)"
+  },
+  {
+    "question": "Apa nama proses dimana sel menghasilkan energi dalam bentuk ATP?",
+    "options": ["Respirasi seluler", "Fotosintesis", "Fermentasi", "Glikolisis"],
+    "answer": "Respirasi seluler"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan gravitasi sebagai kelengkungan ruang-waktu?",
+    "options": ["Relativitas Umum", "Relativitas Khusus", "Mekanika Kuantum", "Elektrodinamika Kuantum"],
+    "answer": "Relativitas Umum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi sebagai tempat degradasi komponen sel yang rusak?",
+    "options": ["Lisosom", "Peroksisom", "Vakuola", "Retikulum endoplasma"],
+    "answer": "Lisosom"
+  },
+  {
+    "question": "Dalam kimia, apa nama ikatan yang terbentuk antara atom hidrogen dengan atom elektronegatif seperti oksigen atau nitrogen?",
+    "options": ["Ikatan hidrogen", "Ikatan ion", "Ikatan kovalen", "Ikatan logam"],
+    "answer": "Ikatan hidrogen"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa pengukuran suatu sistem kuantum mengubah keadaan sistem tersebut?",
+    "options": ["Prinsip Pengukuran Kuantum", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengukuran Kuantum"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana satu spesies berevolusi menjadi banyak spesies yang mengisi ceruk ekologi berbeda?",
+    "options": ["Radiasi adaptif", "Evolusi konvergen", "Seleksi alam", "Spesiasi alopatrik"],
+    "answer": "Radiasi adaptif"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang termasuk dalam keluarga fermion dan memiliki spin 1/2?",
+    "options": ["Quark", "Foton", "Gluon", "Boson W"],
+    "answer": "Quark"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan bulat positif dapat dinyatakan sebagai jumlah dari paling banyak tiga bilangan segitiga?",
+    "options": ["Teorema Gauss", "Teorema Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Gauss"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak melawan gradien konsentrasi dengan bantuan protein membran?",
+    "options": ["Difusi terfasilitasi", "Transport aktif", "Osmosis", "Difusi sederhana"],
+    "answer": "Difusi terfasilitasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda jatuh ke bumi?",
+    "options": ["Gaya gravitasi", "Gaya elektromagnetik", "Gaya nuklir kuat", "Gaya nuklir lemah"],
+    "answer": "Gaya gravitasi"
+  },
+  {
+    "question": "Apa nama struktur dalam sel tumbuhan yang memberikan kekakuan dan perlindungan?",
+    "options": ["Dinding sel", "Membran sel", "Sitoskeleton", "Matriks ekstraseluler"],
+    "answer": "Dinding sel"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 92 dalam tabel periodik?",
+    "options": ["Uranium", "Plutonium", "Thorium", "Radium"],
+    "answer": "Uranium"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa efisiensi mesin kalor tidak bisa 100%?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana virus mentransfer DNA dari satu bakteri ke bakteri lain?",
+    "options": ["Transduksi", "Transformasi", "Konjugasi", "Transposisi"],
+    "answer": "Transduksi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan memiliki spin bilangan bulat?",
+    "options": ["Foton", "Elektron", "Quark", "Neutrino"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang tidak dapat dinyatakan sebagai akar dari persamaan polinomial dengan koefisien bulat?",
+    "options": ["Bilangan transenden", "Bilangan aljabar", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan transenden"
+  },
+  {
+    "question": "Apa nama proses ketiga dalam respirasi seluler yang menghasilkan ATP paling banyak?",
+    "options": ["Rantai transpor elektron", "Glikolisis", "Siklus Krebs", "Fermentasi"],
+    "answer": "Rantai transpor elektron"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan gravitasi sebagai pertukaran graviton virtual?",
+    "options": ["Gravitasi kuantum", "Relativitas umum", "Teori dawai", "Teori loop quantum gravity"],
+    "answer": "Gravitasi kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam detoksifikasi dan produksi lipid?",
+    "options": ["Retikulum endoplasma halus", "Retikulum endoplasma kasar", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma halus"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana atom atau kelompok atom digantikan oleh atom atau kelompok atom lain?",
+    "options": ["Reaksi substitusi", "Reaksi eliminasi", "Reaksi adisi", "Reaksi redoks"],
+    "answer": "Reaksi substitusi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa fungsi gelombang harus antisimetris untuk fermion identik?",
+    "options": ["Prinsip Pengecualian Pauli", "Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengecualian Pauli"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies terpisah secara geografis berevolusi menjadi spesies berbeda?",
+    "options": ["Spesiasi alopatrik", "Spesiasi simpatrik", "Radiasi adaptif", "Evolusi konvergen"],
+    "answer": "Spesiasi alopatrik"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari proton?",
+    "options": ["Antiproton", "Positron", "Antineutron", "Antineutrino"],
+    "answer": "Antiproton"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan asli lebih besar dari 1 adalah produk dari bilangan prima secara unik?",
+    "options": ["Teorema Dasar Aritmatika", "Teorema Terakhir Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Dasar Aritmatika"
+  },
+  {
+    "question": "Apa nama proses dimana sel menelan partikel besar dengan membentuk pseudopodia?",
+    "options": ["Fagositosis", "Pinositosis", "Eksositosis", "Difusi"],
+    "answer": "Fagositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang bekerja antara muatan listrik?",
+    "options": ["Gaya Coulomb", "Gaya Lorentz", "Gaya Ampere", "Gaya Faraday"],
+    "answer": "Gaya Coulomb"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis protein untuk ekspor?",
+    "options": ["Retikulum endoplasma kasar", "Retikulum endoplasma halus", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma kasar"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 17 dalam tabel periodik?",
+    "options": ["Klorin", "Fluor", "Brom", "Iodin"],
+    "answer": "Klorin"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi sistem terisolasi selalu meningkat?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana bakteri mentransfer DNA melalui kontak langsung?",
+    "options": ["Konjugasi", "Transformasi", "Transduksi", "Transposisi"],
+    "answer": "Konjugasi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga fermion dan membentuk materi biasa?",
+    "options": ["Quark dan lepton", "Boson", "Gluon", "Foton"],
+    "answer": "Quark dan lepton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan solusi dari persamaan x³ - 2x - 5 = 0?",
+    "options": ["Bilangan aljabar", "Bilangan transenden", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan aljabar"
+  },
+  {
+    "question": "Apa nama proses dimana sel menghasilkan ATP tanpa oksigen dari piruvat?",
+    "options": ["Fermentasi", "Respirasi aerob", "Fotosintesis", "Glikolisis"],
+    "answer": "Fermentasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan interaksi antara cahaya dan materi?",
+    "options": ["Elektrodinamika kuantum", "Kromodinamika kuantum", "Teori elektrolemah", "Teori medan kuantum"],
+    "answer": "Elektrodinamika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam sintesis lipid dan detoksifikasi obat?",
+    "options": ["Retikulum endoplasma halus", "Retikulum endoplasma kasar", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma halus"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana molekul kecil bergabung membentuk molekul besar dengan melepas molekul kecil seperti water?",
+    "options": ["Reaksi kondensasi", "Reaksi hidrolisis", "Reaksi substitusi", "Reaksi eliminasi"],
+    "answer": "Reaksi kondensasi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa pengamatan sistem kuantum tidak dapat dilakukan tanpa mengubahnya?",
+    "options": ["Prinsip Pengukuran Kuantum", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengukuran Kuantum"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies berevolusi menjadi spesies baru tanpa isolasi geografis?",
+    "options": ["Spesiasi simpatrik", "Spesiasi alopatrik", "Radiasi adaptif", "Evolusi konvergen"],
+    "answer": "Spesiasi simpatrik"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari neutron?",
+    "options": ["Antineutron", "Antiproton", "Positron", "Antineutrino"],
+    "answer": "Antineutron"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa untuk setiap bilangan prima p, (p-1)! ≡ -1 mod p?",
+    "options": ["Teorema Wilson", "Teorema Fermat Kecil", "Teorema Euler", "Teorema Lagrange"],
+    "answer": "Teorema Wilson"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak dari daerah konsentrasi rendah ke tinggi dengan menggunakan energi?",
+    "options": ["Transport aktif", "Difusi", "Osmosis", "Difusi terfasilitasi"],
+    "answer": "Transport aktif"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan jarum kompas menunjuk ke utara?",
+    "options": ["Gaya magnetik", "Gaya elektrik", "Gaya gravitasi", "Gaya nuklir"],
+    "answer": "Gaya magnetik"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis ribosom?",
+    "options": ["Nukleolus", "Nukleus", "Retikulum endoplasma", "Aparatus Golgi"],
+    "answer": "Nukleolus"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 26 dalam tabel periodik?",
+    "options": ["Besi", "Nikel", "Kobalt", "Mangan"],
+    "answer": "Besi"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang mendefinisikan entropi?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana gen berpindah lokasi dalam genom?",
+    "options": ["Transposisi", "Transformasi", "Transduksi", "Konjugasi"],
+    "answer": "Transposisi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan bertanggung jawab atas gaya nuklir lemah?",
+    "options": ["Boson W dan Z", "Foton", "Gluon", "Graviton"],
+    "answer": "Boson W dan Z"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan limit dari deret harmonik?",
+    "options": ["∞ (tak terhingga)", "1", "e (bilangan Euler)", "π (pi)"],
+    "answer": "∞ (tak terhingga)"
+  },
+  {
+    "question": "Apa nama proses dimana sel tumbuhan mengubah energi cahaya menjadi energi kimia?",
+    "options": ["Fotosintesis", "Respirasi", "Fermentasi", "Glikolisis"],
+    "answer": "Fotosintesis"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan perilaku partikel pada skala subatomik?",
+    "options": ["Mekanika kuantum", "Relativitas umum", "Elektrodinamika klasik", "Termodinamika statistik"],
+    "answer": "Mekanika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam modifikasi dan distribusi protein?",
+    "options": ["Aparatus Golgi", "Retikulum endoplasma", "Lisosom", "Mitokondria"],
+    "answer": "Aparatus Golgi"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana molekul besar dipecah menjadi molekul kecil dengan penambahan water?",
+    "options": ["Hidrolisis", "Kondensasi", "Substitusi", "Eliminasi"],
+    "answer": "Hidrolisis"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa partikel dapat berada di beberapa keadaan sekaligus?",
+    "options": ["Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Komplementaritas", "Prinsip Pengecualian"],
+    "answer": "Prinsip Superposisi"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana organisme yang tidak terkait mengembangkan ciri serupa karena adaptasi terhadap lingkungan yang sama?",
+    "options": ["Evolusi konvergen", "Seleksi alam", "Spesiasi", "Adaptasi"],
+    "answer": "Evolusi konvergen"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari neutrino?",
+    "options": ["Antineutrino", "Positron", "Antiproton", "Antineutron"],
+    "answer": "Antineutrino"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan genap lebih besar dari 2 dapat dinyatakan sebagai jumlah dua bilangan prima?",
+    "options": ["Konjektur Goldbach", "Teorema Terakhir Fermat", "Hipotesis Riemann", "Konjektur Poincaré"],
+    "answer": "Konjektur Goldbach"
+  },
+  {
+    "question": "Apa nama proses dimana sel mengeluarkan molekul besar melalui vesikel?",
+    "options": ["Eksositosis", "Endositosis", "Difusi", "Osmosis"],
+    "answer": "Eksositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda bergerak melingkar mengalami percepatan ke arah pusat?",
+    "options": ["Gaya sentripetal", "Gaya sentrifugal", "Gaya Coriolis", "Gaya normal"],
+    "answer": "Gaya sentripetal"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat degradasi peroksida?",
+    "options": ["Peroksisom", "Lisosom", "Vakuola", "Retikulum endoplasma"],
+    "answer": "Peroksisom"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 47 dalam tabel periodik?",
+    "options": ["Perak", "Emas", "Tembaga", "Platina"],
+    "answer": "Perak"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi kristal sempurna pada nol absolut adalah nol?",
+    "options": ["Hukum Ketiga Termodinamika", "Hukum Pertama Termodinamika", "Hukum Kedua Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Ketiga Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana gen berpindah dari satu kromosom ke kromosom lain?",
+    "options": ["Pindah silang (crossing over)", "Transposisi", "Transformasi", "Transduksi"],
+    "answer": "Pindah silang (crossing over)"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan bertanggung jawab atas gaya elektromagnetik?",
+    "options": ["Foton", "Gluon", "Boson W", "Graviton"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan solusi dari persamaan x² = -1?",
+    "options": ["i (bilangan imajiner)", "e (bilangan Euler)", "π (pi)", "φ (rasio emas)"],
+    "answer": "i (bilangan imajiner)"
+  },
+  {
+    "question": "Apa nama proses dimana sel menghasilkan energi dalam bentuk ATP?",
+    "options": ["Respirasi seluler", "Fotosintesis", "Fermentasi", "Glikolisis"],
+    "answer": "Respirasi seluler"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan gravitasi sebagai kelengkungan ruang-waktu?",
+    "options": ["Relativitas Umum", "Relativitas Khusus", "Mekanika Kuantum", "Elektrodinamika Kuantum"],
+    "answer": "Relativitas Umum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi sebagai tempat degradasi komponen sel yang rusak?",
+    "options": ["Lisosom", "Peroksisom", "Vakuola", "Retikulum endoplasma"],
+    "answer": "Lisosom"
+  },
+  {
+    "question": "Dalam kimia, apa nama ikatan yang terbentuk antara atom hidrogen dengan atom elektronegatif seperti oksigen atau nitrogen?",
+    "options": ["Ikatan hidrogen", "Ikatan ion", "Ikatan kovalen", "Ikatan logam"],
+    "answer": "Ikatan hidrogen"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa pengukuran suatu sistem kuantum mengubah keadaan sistem tersebut?",
+    "options": ["Prinsip Pengukuran Kuantum", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengukuran Kuantum"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana satu spesies berevolusi menjadi banyak spesies yang mengisi ceruk ekologi berbeda?",
+    "options": ["Radiasi adaptif", "Evolusi konvergen", "Seleksi alam", "Spesiasi alopatrik"],
+    "answer": "Radiasi adaptif"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang termasuk dalam keluarga fermion dan memiliki spin 1/2?",
+    "options": ["Quark", "Foton", "Gluon", "Boson W"],
+    "answer": "Quark"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan bulat positif dapat dinyatakan sebagai jumlah dari paling banyak tiga bilangan segitiga?",
+    "options": ["Teorema Gauss", "Teorema Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Gauss"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak melawan gradien konsentrasi dengan bantuan protein membran?",
+    "options": ["Difusi terfasilitasi", "Transport aktif", "Osmosis", "Difusi sederhana"],
+    "answer": "Difusi terfasilitasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda jatuh ke bumi?",
+    "options": ["Gaya gravitasi", "Gaya elektromagnetik", "Gaya nuklir kuat", "Gaya nuklir lemah"],
+    "answer": "Gaya gravitasi"
+  },
+  {
+    "question": "Apa nama struktur dalam sel tumbuhan yang memberikan kekakuan dan perlindungan?",
+    "options": ["Dinding sel", "Membran sel", "Sitoskeleton", "Matriks ekstraseluler"],
+    "answer": "Dinding sel"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 92 dalam tabel periodik?",
+    "options": ["Uranium", "Plutonium", "Thorium", "Radium"],
+    "answer": "Uranium"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa efisiensi mesin kalor tidak bisa 100%?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana virus mentransfer DNA dari satu bakteri ke bakteri lain?",
+    "options": ["Transduksi", "Transformasi", "Konjugasi", "Transposisi"],
+    "answer": "Transduksi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan memiliki spin bilangan bulat?",
+    "options": ["Foton", "Elektron", "Quark", "Neutrino"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang tidak dapat dinyatakan sebagai akar dari persamaan polinomial dengan koefisien bulat?",
+    "options": ["Bilangan transenden", "Bilangan aljabar", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan transenden"
+  },
+  {
+    "question": "Apa nama proses ketiga dalam respirasi seluler yang menghasilkan ATP paling banyak?",
+    "options": ["Rantai transpor elektron", "Glikolisis", "Siklus Krebs", "Fermentasi"],
+    "answer": "Rantai transpor elektron"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan gravitasi sebagai pertukaran graviton virtual?",
+    "options": ["Gravitasi kuantum", "Relativitas umum", "Teori dawai", "Teori loop quantum gravity"],
+    "answer": "Gravitasi kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam detoksifikasi dan produksi lipid?",
+    "options": ["Retikulum endoplasma halus", "Retikulum endoplasma kasar", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma halus"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana atom atau kelompok atom digantikan oleh atom atau kelompok atom lain?",
+    "options": ["Reaksi substitusi", "Reaksi eliminasi", "Reaksi adisi", "Reaksi redoks"],
+    "answer": "Reaksi substitusi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa fungsi gelombang harus antisimetris untuk fermion identik?",
+    "options": ["Prinsip Pengecualian Pauli", "Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengecualian Pauli"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies terpisah secara geografis berevolusi menjadi spesies berbeda?",
+    "options": ["Spesiasi alopatrik", "Spesiasi simpatrik", "Radiasi adaptif", "Evolusi konvergen"],
+    "answer": "Spesiasi alopatrik"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari proton?",
+    "options": ["Antiproton", "Positron", "Antineutron", "Antineutrino"],
+    "answer": "Antiproton"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan asli lebih besar dari 1 adalah produk dari bilangan prima secara unik?",
+    "options": ["Teorema Dasar Aritmatika", "Teorema Terakhir Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Dasar Aritmatika"
+  },
+  {
+    "question": "Apa nama proses dimana sel menelan partikel besar dengan membentuk pseudopodia?",
+    "options": ["Fagositosis", "Pinositosis", "Eksositosis", "Difusi"],
+    "answer": "Fagositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang bekerja antara muatan listrik?",
+    "options": ["Gaya Coulomb", "Gaya Lorentz", "Gaya Ampere", "Gaya Faraday"],
+    "answer": "Gaya Coulomb"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis protein untuk ekspor?",
+    "options": ["Retikulum endoplasma kasar", "Retikulum endoplasma halus", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma kasar"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 17 dalam tabel periodik?",
+    "options": ["Klorin", "Fluor", "Brom", "Iodin"],
+    "answer": "Klorin"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi sistem terisolasi selalu meningkat?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana bakteri mentransfer DNA melalui kontak langsung?",
+    "options": ["Konjugasi", "Transformasi", "Transduksi", "Transposisi"],
+    "answer": "Konjugasi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga fermion dan membentuk materi biasa?",
+    "options": ["Quark dan lepton", "Boson", "Gluon", "Foton"],
+    "answer": "Quark dan lepton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan solusi dari persamaan x³ - 2x - 5 = 0?",
+    "options": ["Bilangan aljabar", "Bilangan transenden", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan aljabar"
+  },
+  {
+    "question": "Apa nama proses dimana sel menghasilkan ATP tanpa oksigen dari piruvat?",
+    "options": ["Fermentasi", "Respirasi aerob", "Fotosintesis", "Glikolisis"],
+    "answer": "Fermentasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan interaksi antara cahaya dan materi?",
+    "options": ["Elektrodinamika kuantum", "Kromodinamika kuantum", "Teori elektrolemah", "Teori medan kuantum"],
+    "answer": "Elektrodinamika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam sintesis lipid dan detoksifikasi obat?",
+    "options": ["Retikulum endoplasma halus", "Retikulum endoplasma kasar", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma halus"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana molekul kecil bergabung membentuk molekul besar dengan melepas molekul kecil seperti water?",
+    "options": ["Reaksi kondensasi", "Reaksi hidrolisis", "Reaksi substitusi", "Reaksi eliminasi"],
+    "answer": "Reaksi kondensasi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa pengamatan sistem kuantum tidak dapat dilakukan tanpa mengubahnya?",
+    "options": ["Prinsip Pengukuran Kuantum", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengukuran Kuantum"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies berevolusi menjadi spesies baru tanpa isolasi geografis?",
+    "options": ["Spesiasi simpatrik", "Spesiasi alopatrik", "Radiasi adaptif", "Evolusi konvergen"],
+    "answer": "Spesiasi simpatrik"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari neutron?",
+    "options": ["Antineutron", "Antiproton", "Positron", "Antineutrino"],
+    "answer": "Antineutron"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa untuk setiap bilangan prima p, (p-1)! ≡ -1 mod p?",
+    "options": ["Teorema Wilson", "Teorema Fermat Kecil", "Teorema Euler", "Teorema Lagrange"],
+    "answer": "Teorema Wilson"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak dari daerah konsentrasi rendah ke tinggi dengan menggunakan energi?",
+    "options": ["Transport aktif", "Difusi", "Osmosis", "Difusi terfasilitasi"],
+    "answer": "Transport aktif"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan jarum kompas menunjuk ke utara?",
+    "options": ["Gaya magnetik", "Gaya elektrik", "Gaya gravitasi", "Gaya nuklir"],
+    "answer": "Gaya magnetik"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis ribosom?",
+    "options": ["Nukleolus", "Nukleus", "Retikulum endoplasma", "Aparatus Golgi"],
+    "answer": "Nukleolus"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 26 dalam tabel periodik?",
+    "options": ["Besi", "Nikel", "Kobalt", "Mangan"],
+    "answer": "Besi"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang mendefinisikan entropi?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana gen berpindah lokasi dalam genom?",
+    "options": ["Transposisi", "Transformasi", "Transduksi", "Konjugasi"],
+    "answer": "Transposisi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan bertanggung jawab atas gaya nuklir lemah?",
+    "options": ["Boson W dan Z", "Foton", "Gluon", "Graviton"],
+    "answer": "Boson W dan Z"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan limit dari deret harmonik?",
+    "options": ["∞ (tak terhingga)", "1", "e (bilangan Euler)", "π (pi)"],
+    "answer": "∞ (tak terhingga)"
+  },
+  {
+    "question": "Apa nama proses dimana sel tumbuhan mengubah energi cahaya menjadi energi kimia?",
+    "options": ["Fotosintesis", "Respirasi", "Fermentasi", "Glikolisis"],
+    "answer": "Fotosintesis"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan perilaku partikel pada skala subatomik?",
+    "options": ["Mekanika kuantum", "Relativitas umum", "Elektrodinamika klasik", "Termodinamika statistik"],
+    "answer": "Mekanika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam modifikasi dan distribusi protein?",
+    "options": ["Aparatus Golgi", "Retikulum endoplasma", "Lisosom", "Mitokondria"],
+    "answer": "Aparatus Golgi"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana molekul besar dipecah menjadi molekul kecil dengan penambahan water?",
+    "options": ["Hidrolisis", "Kondensasi", "Substitusi", "Eliminasi"],
+    "answer": "Hidrolisis"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa partikel dapat berada di beberapa keadaan sekaligus?",
+    "options": ["Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Komplementaritas", "Prinsip Pengecualian"],
+    "answer": "Prinsip Superposisi"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana organisme yang tidak terkait mengembangkan ciri serupa karena adaptasi terhadap lingkungan yang sama?",
+    "options": ["Evolusi konvergen", "Seleksi alam", "Spesiasi", "Adaptasi"],
+    "answer": "Evolusi konvergen"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari neutrino?",
+    "options": ["Antineutrino", "Positron", "Antiproton", "Antineutron"],
+    "answer": "Antineutrino"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan genap lebih besar dari 2 dapat dinyatakan sebagai jumlah dua bilangan prima?",
+    "options": ["Konjektur Goldbach", "Teorema Terakhir Fermat", "Hipotesis Riemann", "Konjektur Poincaré"],
+    "answer": "Konjektur Goldbach"
+  },
+  {
+    "question": "Apa nama proses dimana sel mengeluarkan molekul besar melalui vesikel?",
+    "options": ["Eksositosis", "Endositosis", "Difusi", "Osmosis"],
+    "answer": "Eksositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda bergerak melingkar mengalami percepatan ke arah pusat?",
+    "options": ["Gaya sentripetal", "Gaya sentrifugal", "Gaya Coriolis", "Gaya normal"],
+    "answer": "Gaya sentripetal"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat degradasi peroksida?",
+    "options": ["Peroksisom", "Lisosom", "Vakuola", "Retikulum endoplasma"],
+    "answer": "Peroksisom"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 47 dalam tabel periodik?",
+    "options": ["Perak", "Emas", "Tembaga", "Platina"],
+    "answer": "Perak"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi kristal sempurna pada nol absolut adalah nol?",
+    "options": ["Hukum Ketiga Termodinamika", "Hukum Pertama Termodinamika", "Hukum Kedua Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Ketiga Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana gen berpindah dari satu kromosom ke kromosom lain?",
+    "options": ["Pindah silang (crossing over)", "Transposisi", "Transformasi", "Transduksi"],
+    "answer": "Pindah silang (crossing over)"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan bertanggung jawab atas gaya elektromagnetik?",
+    "options": ["Foton", "Gluon", "Boson W", "Graviton"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan solusi dari persamaan x² = -1?",
+    "options": ["i (bilangan imajiner)", "e (bilangan Euler)", "π (pi)", "φ (rasio emas)"],
+    "answer": "i (bilangan imajiner)"
+  },
+  {
+    "question": "Apa nama proses dimana sel menghasilkan energi dalam bentuk ATP?",
+    "options": ["Respirasi seluler", "Fotosintesis", "Fermentasi", "Glikolisis"],
+    "answer": "Respirasi seluler"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan gravitasi sebagai kelengkungan ruang-waktu?",
+    "options": ["Relativitas Umum", "Relativitas Khusus", "Mekanika Kuantum", "Elektrodinamika Kuantum"],
+    "answer": "Relativitas Umum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi sebagai tempat degradasi komponen sel yang rusak?",
+    "options": ["Lisosom", "Peroksisom", "Vakuola", "Retikulum endoplasma"],
+    "answer": "Lisosom"
+  },
+  {
+    "question": "Dalam kimia, apa nama ikatan yang terbentuk antara atom hidrogen dengan atom elektronegatif seperti oksigen atau nitrogen?",
+    "options": ["Ikatan hidrogen", "Ikatan ion", "Ikatan kovalen", "Ikatan logam"],
+    "answer": "Ikatan hidrogen"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa pengukuran suatu sistem kuantum mengubah keadaan sistem tersebut?",
+    "options": ["Prinsip Pengukuran Kuantum", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengukuran Kuantum"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana satu spesies berevolusi menjadi banyak spesies yang mengisi ceruk ekologi berbeda?",
+    "options": ["Radiasi adaptif", "Evolusi konvergen", "Seleksi alam", "Spesiasi alopatrik"],
+    "answer": "Radiasi adaptif"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang termasuk dalam keluarga fermion dan memiliki spin 1/2?",
+    "options": ["Quark", "Foton", "Gluon", "Boson W"],
+    "answer": "Quark"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan bulat positif dapat dinyatakan sebagai jumlah dari paling banyak tiga bilangan segitiga?",
+    "options": ["Teorema Gauss", "Teorema Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Gauss"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak melawan gradien konsentrasi dengan bantuan protein membran?",
+    "options": ["Difusi terfasilitasi", "Transport aktif", "Osmosis", "Difusi sederhana"],
+    "answer": "Difusi terfasilitasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda jatuh ke bumi?",
+    "options": ["Gaya gravitasi", "Gaya elektromagnetik", "Gaya nuklir kuat", "Gaya nuklir lemah"],
+    "answer": "Gaya gravitasi"
+  },
+  {
+    "question": "Apa nama struktur dalam sel tumbuhan yang memberikan kekakuan dan perlindungan?",
+    "options": ["Dinding sel", "Membran sel", "Sitoskeleton", "Matriks ekstraseluler"],
+    "answer": "Dinding sel"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 92 dalam tabel periodik?",
+    "options": ["Uranium", "Plutonium", "Thorium", "Radium"],
+    "answer": "Uranium"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa efisiensi mesin kalor tidak bisa 100%?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana virus mentransfer DNA dari satu bakteri ke bakteri lain?",
+    "options": ["Transduksi", "Transformasi", "Konjugasi", "Transposisi"],
+    "answer": "Transduksi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan memiliki spin bilangan bulat?",
+    "options": ["Foton", "Elektron", "Quark", "Neutrino"],
+    "answer": "Foton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang tidak dapat dinyatakan sebagai akar dari persamaan polinomial dengan koefisien bulat?",
+    "options": ["Bilangan transenden", "Bilangan aljabar", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan transenden"
+  },
+  {
+    "question": "Apa nama proses ketiga dalam respirasi seluler yang menghasilkan ATP paling banyak?",
+    "options": ["Rantai transpor elektron", "Glikolisis", "Siklus Krebs", "Fermentasi"],
+    "answer": "Rantai transpor elektron"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan gravitasi sebagai pertukaran graviton virtual?",
+    "options": ["Gravitasi kuantum", "Relativitas umum", "Teori dawai", "Teori loop quantum gravity"],
+    "answer": "Gravitasi kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam detoksifikasi dan produksi lipid?",
+    "options": ["Retikulum endoplasma halus", "Retikulum endoplasma kasar", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma halus"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana atom atau kelompok atom digantikan oleh atom atau kelompok atom lain?",
+    "options": ["Reaksi substitusi", "Reaksi eliminasi", "Reaksi adisi", "Reaksi redoks"],
+    "answer": "Reaksi substitusi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa fungsi gelombang harus antisimetris untuk fermion identik?",
+    "options": ["Prinsip Pengecualian Pauli", "Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengecualian Pauli"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies terpisah secara geografis berevolusi menjadi spesies berbeda?",
+    "options": ["Spesiasi alopatrik", "Spesiasi simpatrik", "Radiasi adaptif", "Evolusi konvergen"],
+    "answer": "Spesiasi alopatrik"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari proton?",
+    "options": ["Antiproton", "Positron", "Antineutron", "Antineutrino"],
+    "answer": "Antiproton"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan asli lebih besar dari 1 adalah produk dari bilangan prima secara unik?",
+    "options": ["Teorema Dasar Aritmatika", "Teorema Terakhir Fermat", "Teorema Wilson", "Teorema Euclid"],
+    "answer": "Teorema Dasar Aritmatika"
+  },
+  {
+    "question": "Apa nama proses dimana sel menelan partikel besar dengan membentuk pseudopodia?",
+    "options": ["Fagositosis", "Pinositosis", "Eksositosis", "Difusi"],
+    "answer": "Fagositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang bekerja antara muatan listrik?",
+    "options": ["Gaya Coulomb", "Gaya Lorentz", "Gaya Ampere", "Gaya Faraday"],
+    "answer": "Gaya Coulomb"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis protein untuk ekspor?",
+    "options": ["Retikulum endoplasma kasar", "Retikulum endoplasma halus", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma kasar"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 17 dalam tabel periodik?",
+    "options": ["Klorin", "Fluor", "Brom", "Iodin"],
+    "answer": "Klorin"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang menyatakan bahwa entropi sistem terisolasi selalu meningkat?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana bakteri mentransfer DNA melalui kontak langsung?",
+    "options": ["Konjugasi", "Transformasi", "Transduksi", "Transposisi"],
+    "answer": "Konjugasi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga fermion dan membentuk materi biasa?",
+    "options": ["Quark dan lepton", "Boson", "Gluon", "Foton"],
+    "answer": "Quark dan lepton"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan solusi dari persamaan x³ - 2x - 5 = 0?",
+    "options": ["Bilangan aljabar", "Bilangan transenden", "Bilangan irasional", "Bilangan imajiner"],
+    "answer": "Bilangan aljabar"
+  },
+  {
+    "question": "Apa nama proses dimana sel menghasilkan ATP tanpa oksigen dari piruvat?",
+    "options": ["Fermentasi", "Respirasi aerob", "Fotosintesis", "Glikolisis"],
+    "answer": "Fermentasi"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan interaksi antara cahaya dan materi?",
+    "options": ["Elektrodinamika kuantum", "Kromodinamika kuantum", "Teori elektrolemah", "Teori medan kuantum"],
+    "answer": "Elektrodinamika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam sintesis lipid dan detoksifikasi obat?",
+    "options": ["Retikulum endoplasma halus", "Retikulum endoplasma kasar", "Aparatus Golgi", "Lisosom"],
+    "answer": "Retikulum endoplasma halus"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana molekul kecil bergabung membentuk molekul besar dengan melepas molekul kecil seperti water?",
+    "options": ["Reaksi kondensasi", "Reaksi hidrolisis", "Reaksi substitusi", "Reaksi eliminasi"],
+    "answer": "Reaksi kondensasi"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa pengamatan sistem kuantum tidak dapat dilakukan tanpa mengubahnya?",
+    "options": ["Prinsip Pengukuran Kuantum", "Prinsip Ketidakpastian", "Prinsip Superposisi", "Prinsip Komplementaritas"],
+    "answer": "Prinsip Pengukuran Kuantum"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana spesies berevolusi menjadi spesies baru tanpa isolasi geografis?",
+    "options": ["Spesiasi simpatrik", "Spesiasi alopatrik", "Radiasi adaptif", "Evolusi konvergen"],
+    "answer": "Spesiasi simpatrik"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari neutron?",
+    "options": ["Antineutron", "Antiproton", "Positron", "Antineutrino"],
+    "answer": "Antineutron"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa untuk setiap bilangan prima p, (p-1)! ≡ -1 mod p?",
+    "options": ["Teorema Wilson", "Teorema Fermat Kecil", "Teorema Euler", "Teorema Lagrange"],
+    "answer": "Teorema Wilson"
+  },
+  {
+    "question": "Apa nama proses dimana molekul bergerak dari daerah konsentrasi rendah ke tinggi dengan menggunakan energi?",
+    "options": ["Transport aktif", "Difusi", "Osmosis", "Difusi terfasilitasi"],
+    "answer": "Transport aktif"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan jarum kompas menunjuk ke utara?",
+    "options": ["Gaya magnetik", "Gaya elektrik", "Gaya gravitasi", "Gaya nuklir"],
+    "answer": "Gaya magnetik"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat sintesis ribosom?",
+    "options": ["Nukleolus", "Nukleus", "Retikulum endoplasma", "Aparatus Golgi"],
+    "answer": "Nukleolus"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 26 dalam tabel periodik?",
+    "options": ["Besi", "Nikel", "Kobalt", "Mangan"],
+    "answer": "Besi"
+  },
+  {
+    "question": "Apa nama hukum termodinamika yang mendefinisikan entropi?",
+    "options": ["Hukum Kedua Termodinamika", "Hukum Pertama Termodinamika", "Hukum Ketiga Termodinamika", "Hukum Nol Termodinamika"],
+    "answer": "Hukum Kedua Termodinamika"
+  },
+  {
+    "question": "Dalam genetika, apa nama proses dimana gen berpindah lokasi dalam genom?",
+    "options": ["Transposisi", "Transformasi", "Transduksi", "Konjugasi"],
+    "answer": "Transposisi"
+  },
+  {
+    "question": "Apa nama partikel yang termasuk dalam keluarga boson dan bertanggung jawab atas gaya nuklir lemah?",
+    "options": ["Boson W dan Z", "Foton", "Gluon", "Graviton"],
+    "answer": "Boson W dan Z"
+  },
+  {
+    "question": "Dalam matematika, apa nama bilangan yang merupakan limit dari deret harmonik?",
+    "options": ["∞ (tak terhingga)", "1", "e (bilangan Euler)", "π (pi)"],
+    "answer": "∞ (tak terhingga)"
+  },
+  {
+    "question": "Apa nama proses dimana sel tumbuhan mengubah energi cahaya menjadi energi kimia?",
+    "options": ["Fotosintesis", "Respirasi", "Fermentasi", "Glikolisis"],
+    "answer": "Fotosintesis"
+  },
+  {
+    "question": "Dalam fisika, apa nama teori yang menggambarkan perilaku partikel pada skala subatomik?",
+    "options": ["Mekanika kuantum", "Relativitas umum", "Elektrodinamika klasik", "Termodinamika statistik"],
+    "answer": "Mekanika kuantum"
+  },
+  {
+    "question": "Apa nama organel sel yang berfungsi dalam modifikasi dan distribusi protein?",
+    "options": ["Aparatus Golgi", "Retikulum endoplasma", "Lisosom", "Mitokondria"],
+    "answer": "Aparatus Golgi"
+  },
+  {
+    "question": "Dalam kimia, apa nama reaksi dimana molekul besar dipecah menjadi molekul kecil dengan penambahan water?",
+    "options": ["Hidrolisis", "Kondensasi", "Substitusi", "Eliminasi"],
+    "answer": "Hidrolisis"
+  },
+  {
+    "question": "Apa nama prinsip dalam mekanika kuantum yang menyatakan bahwa partikel dapat berada di beberapa keadaan sekaligus?",
+    "options": ["Prinsip Superposisi", "Prinsip Ketidakpastian", "Prinsip Komplementaritas", "Prinsip Pengecualian"],
+    "answer": "Prinsip Superposisi"
+  },
+  {
+    "question": "Dalam biologi, apa nama proses dimana organisme yang tidak terkait mengembangkan ciri serupa karena adaptasi terhadap lingkungan yang sama?",
+    "options": ["Evolusi konvergen", "Seleksi alam", "Spesiasi", "Adaptasi"],
+    "answer": "Evolusi konvergen"
+  },
+  {
+    "question": "Apa nama partikel subatomik yang merupakan antipartikel dari neutrino?",
+    "options": ["Antineutrino", "Positron", "Antiproton", "Antineutron"],
+    "answer": "Antineutrino"
+  },
+  {
+    "question": "Dalam matematika, apa nama teorema yang menyatakan bahwa setiap bilangan genap lebih besar dari 2 dapat dinyatakan sebagai jumlah dua bilangan prima?",
+    "options": ["Konjektur Goldbach", "Teorema Terakhir Fermat", "Hipotesis Riemann", "Konjektur Poincaré"],
+    "answer": "Konjektur Goldbach"
+  },
+  {
+    "question": "Apa nama proses dimana sel mengeluarkan molekul besar melalui vesikel?",
+    "options": ["Eksositosis", "Endositosis", "Difusi", "Osmosis"],
+    "answer": "Eksositosis"
+  },
+  {
+    "question": "Dalam fisika, apa nama gaya yang menyebabkan benda bergerak melingkar mengalami percepatan ke arah pusat?",
+    "options": ["Gaya sentripetal", "Gaya sentrifugal", "Gaya Coriolis", "Gaya normal"],
+    "answer": "Gaya sentripetal"
+  },
+  {
+    "question": "Apa nama struktur dalam sel yang berfungsi sebagai tempat degradasi peroksida?",
+    "options": ["Peroksisom", "Lisosom", "Vakuola", "Retikulum endoplasma"],
+    "answer": "Peroksisom"
+  },
+  {
+    "question": "Dalam kimia, apa nama unsur yang memiliki nomor atom 47 dalam tabel periodik?",
+    "options": ["Perak", "Emas", "Tembaga", "Platina"],
+    "answer": "Perak"
+  }
+]
